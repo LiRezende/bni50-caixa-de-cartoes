@@ -52,12 +52,18 @@
       </v-flex>
       <v-flex xs12 md6>
         <v-card class="card-area" elevation="20">
-          <v-avatar size="150">
+          <v-row class="avatars">
+            <v-avatar size="150">
+              <img
+                src="https://www.bniconnectglobal.com/web/open/networkViewProfileImage/5a95862644f4ad1a5ad4d9c0.jpg"
+                alt="Andréa Fiorini"
+              />
+            </v-avatar>
             <img
-              src="https://www.bniconnectglobal.com/web/open/networkViewProfileImage/5a95862644f4ad1a5ad4d9c0.jpg"
-              alt="Andráa Fiorini"
+              src="http://andreafiorini.com.br/wp-content/uploads/2015/01/AF_logo_lg-300x79.png"
+              alt="Logo Andréa Fiorini Arquitetura"
             />
-          </v-avatar>
+          </v-row>
           <v-card-title> Andréa Fiorini </v-card-title>
           <v-card-subtitle
             >Andrea Fiorini Arquitetura: Arquiteto</v-card-subtitle
@@ -72,10 +78,17 @@
                 ><v-icon>mdi-whatsapp</v-icon> (21) 99986-4022</a
               ></v-btn
             >
-            <v-btn text
+            <v-btn text wrap
               ><a href="mailto:‎andrea@andreafiorini.com.br"
                 >‎<v-icon>mdi-email-outline</v-icon>
                 andrea@andreafiorini.com.br</a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="http://andreafiorini.com.br/?lang=pt-br"
+                >‎<v-icon>mdi-earth</v-icon> andreafiorini.com.br</a
               ></v-btn
             >
           </v-card-actions>
@@ -111,5 +124,8 @@ a {
 }
 .card-area {
   margin: 10px;
+}
+.avatars {
+  padding: 20px;
 }
 </style>
