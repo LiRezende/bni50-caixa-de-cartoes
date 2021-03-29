@@ -7,38 +7,40 @@
     <v-layout row wrap>
       <v-flex xs12 md6>
         <v-card class="card-area" elevation="20">
-          <v-avatar size="150">
-            <img
-              src="https://www.bniconnectglobal.com/web/open/networkViewProfileImage/5fe288d20cf2acd5d34680ba.jpg"
-              alt="Bruno Penna"
-            />
-          </v-avatar>
+          <v-row class="avatars">
+            <v-avatar size="150">
+              <img src="#" alt="Bruno Penna" />
+            </v-avatar>
+            <img src="#" alt="Logo Melhor Compra do CADEG" />
+          </v-row>
           <v-card-title>Bruno Penna</v-card-title>
           <v-card-subtitle
             ><strong>Melhor Compra do CADEG</strong> |
             Distribuidora</v-card-subtitle
           >
           <v-card-text
-            >Distribuidora de hortifruti. Atendemos atacado e varejo. Vendemos para pessoa física e jurídica.
+            >Distribuidora de hortifruti. Atendemos atacado e varejo. Vendemos
+            para pessoa física e jurídica.
           </v-card-text>
           <v-card-actions>
             <v-btn text
               ><a href="https://api.whatsapp.com/send?phone=5521964815955"
-                ><v-icon>mdi-whatsapp</v-icon>+55 21 96481-5955</a
+                ><v-icon>mdi-whatsapp</v-icon> +55 21 96481-5955</a
               ></v-btn
             >
           </v-card-actions>
           <v-card-actions>
             <v-btn text
               ><a href="mailto:‎brunopenna@mcdocadeg.com.br"
-                >‎<v-icon>mdi-email-outline</v-icon>brunopenna@mcdocadeg.com.br</a
+                >‎<v-icon>mdi-email-outline</v-icon>
+                brunopenna@mcdocadeg.com.br</a
               ></v-btn
             >
           </v-card-actions>
           <v-card-actions>
             <v-btn text
               ><a href="https://www.melhorcompradocadeg.com.br/"
-                >‎<v-icon>mdi-earth</v-icon>melhorcompradocadeg.com.br</a
+                >‎<v-icon>mdi-earth</v-icon> melhorcompradocadeg.com.br</a
               ></v-btn
             >
           </v-card-actions>
@@ -48,45 +50,76 @@
         <v-card class="card-area" elevation="20">
           <v-row class="avatars">
             <v-avatar size="150">
-              <img
-                src="https://www.bniconnectglobal.com/web/open/networkViewProfileImage/5a95862644f4ad1a5ad4d9c0.jpg"
-                alt="Ligia Brusamolin"
-              />
+              <img src="#" alt="" />
             </v-avatar>
-            <img
-              src="http://andreafiorini.com.br/wp-content/uploads/2015/01/AF_logo_lg-300x79.png"
-              alt="Logo Andréa Fiorini Arquitetura"
-            />
+            <img src="#" alt="#" />
           </v-row>
-          <v-card-title>Ligia Brusamolin</v-card-title>
+          <v-card-title>Luiz Adriano</v-card-title>
           <v-card-subtitle
-            ><strong>Molin Space: Desenvolvimento Web</strong> | Desenvolvimento
-            de Sites e E-commerce</v-card-subtitle
+            ><strong>Folivora Gin</strong> | Produtos Alimentícios -
+            Bebidas</v-card-subtitle
           >
           <v-card-text
-            >Agência de Desenvolvimento Web & Mobile. Desenvolvemos, fazemos a
-            manutenção e otimizamos: sites, lojas virtuais, landing pages, blogs
-            e aplicativos. Também temos nosso próprio produto: um sistema
-            delivery para bares e restaurantes.
+            >Destilaria exclusiva de GIN situado na serra dos órgãos na cidade
+            de Teresópolis aonde destilamos o FOLIVORA GIN. Atendemos a todo o
+            Brasil no Atacado ou Varejo.
           </v-card-text>
           <v-card-actions>
             <v-btn text
-              ><a href="https://api.whatsapp.com/send?phone=5521984418877"
-                ><v-icon>mdi-whatsapp</v-icon>+55 (21) 98441-8877</a
+              ><a href="https://api.whatsapp.com/send?phone=5521993368570"
+                ><v-icon>mdi-whatsapp</v-icon> +55 21 99336-8570</a
               ></v-btn
             >
           </v-card-actions>
           <v-card-actions>
             <v-btn text
-              ><a href="mailto:‎ligia@molin.space"
-                >‎<v-icon>mdi-email-outline</v-icon> ligia@molin.space</a
+              ><a href="mailto:‎luizadrianorj@gmail.com"
+                >‎<v-icon>mdi-email-outline</v-icon> luizadrianorj@gmail.com</a
               ></v-btn
             >
           </v-card-actions>
           <v-card-actions>
             <v-btn text
-              ><a href="https://molin.space/"
-                >‎<v-icon>mdi-earth</v-icon>molin.space</a
+              ><a href="https://www.folivoragin.com/"
+                >‎<v-icon>mdi-earth</v-icon> folivoragin.com</a
+              ></v-btn
+            >
+          </v-card-actions>
+        </v-card>
+      </v-flex>
+      <v-flex xs12 md6>
+        <v-card class="card-area" elevation="20">
+          <v-row class="avatars">
+            <v-avatar size="150">
+              <img src="#" alt="" />
+            </v-avatar>
+            <img src="#" alt="#" />
+          </v-row>
+          <v-card-title>Margareth Galves</v-card-title>
+          <v-card-subtitle
+            ><strong>Limppo Multiserviços</strong> | Limpeza -
+            Manutenção</v-card-subtitle
+          >
+          <v-card-text>Terceirização de mão-de-obra. </v-card-text>
+          <v-card-actions>
+            <v-btn text
+              ><a href="https://api.whatsapp.com/send?phone=5521981248571"
+                ><v-icon>mdi-whatsapp</v-icon> +55 21 98124-8571</a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="mailto:‎margareth.galves@limppo.com.br"
+                >‎<v-icon>mdi-email-outline</v-icon>
+                margareth.galves@limppo.com.br</a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="https://limppo.com.br/"
+                >‎<v-icon>mdi-earth</v-icon> limppo.com.b</a
               ></v-btn
             >
           </v-card-actions>
@@ -98,7 +131,7 @@
 
 <script>
 export default {
-  name: "Home",
+  name: "Eventos",
 };
 </script>
 

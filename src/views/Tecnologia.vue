@@ -7,12 +7,19 @@
     <v-layout row wrap>
       <v-flex xs12 md6>
         <v-card class="card-area" elevation="20">
-          <v-avatar size="150">
+          <v-row class="avatars">
+            <v-avatar size="150">
+              <img
+                src="../../assets/images/tecnologia/evaristo-quintao-foto.png"
+                alt="Evaristo Quintão"
+              />
+            </v-avatar>
             <img
-              src="https://github.com/LiRezende/images-cxc/blob/main/assets/images/tecnologia/evaristo-quintao-foto.png"
-              alt="Evaristo Quintão"
+              class="logo"
+              src="../../assets/images/tecnologia/big5-technologies.png"
+              alt="Logo Big5 Technologies"
             />
-          </v-avatar>
+          </v-row>
           <v-card-title>Evaristo Quintão</v-card-title>
           <v-card-subtitle
             ><strong>Big5 Technologies</strong> | Infraestrutura de
@@ -28,36 +35,39 @@
           <v-card-actions>
             <v-btn text
               ><a href="https://api.whatsapp.com/send?phone=5521992824628"
-                ><v-icon>mdi-whatsapp</v-icon>+55 21 99282-4628</a
-              ></v-btn
-            >
-            <v-btn text
-              ><a href="mailto:‎eq@big5.tech"
-                >‎<v-icon>mdi-email-outline</v-icon>eq@big5.tech</a
-              ></v-btn
-            >
-            <v-card-actions>
-            <v-btn text
-              ><a href="http://big5.tech/"
-                >‎<v-icon>mdi-earth</v-icon>big5.tech</a
+                ><v-icon>mdi-whatsapp</v-icon> +55 21 99282-4628</a
               ></v-btn
             >
           </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="mailto:‎eq@big5.tech"
+                >‎<v-icon>mdi-email-outline</v-icon> eq@big5.tech</a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="http://big5.tech/"
+                >‎<v-icon>mdi-earth</v-icon> big5.tech</a
+              ></v-btn
+            >
           </v-card-actions>
         </v-card>
       </v-flex>
       <v-flex xs12 md6>
         <v-card class="card-area" elevation="20">
           <v-row class="avatars">
-            <v-avatar size="150">
+            <v-avatar size="100">
               <img
-                src="https://www.bniconnectglobal.com/web/open/networkViewProfileImage/5a95862644f4ad1a5ad4d9c0.jpg"
+                src="../../assets/images/tecnologia/ligia-brusamolin-foto.jpg"
                 alt="Ligia Brusamolin"
               />
             </v-avatar>
             <img
-              src="http://andreafiorini.com.br/wp-content/uploads/2015/01/AF_logo_lg-300x79.png"
-              alt="Logo Andréa Fiorini Arquitetura"
+              class="logo"
+              src="../../assets/images/tecnologia/logo-molin-space.png"
+              alt="Logo Molin Space Desenvolvimento Web"
             />
           </v-row>
           <v-card-title>Ligia Brusamolin</v-card-title>
@@ -74,9 +84,11 @@
           <v-card-actions>
             <v-btn text
               ><a href="https://api.whatsapp.com/send?phone=5521984418877"
-                ><v-icon>mdi-whatsapp</v-icon>+55 (21) 98441-8877</a
+                ><v-icon>mdi-whatsapp</v-icon> +55 21 98441-8877</a
               ></v-btn
             >
+          </v-card-actions>
+          <v-card-actions>
             <v-btn text wrap
               ><a href="mailto:‎ligia@molin.space"
                 >‎<v-icon>mdi-email-outline</v-icon> ligia@molin.space</a
@@ -86,7 +98,7 @@
           <v-card-actions>
             <v-btn text
               ><a href="https://molin.space/"
-                >‎<v-icon>mdi-earth</v-icon>molin.space</a
+                >‎<v-icon>mdi-earth</v-icon> molin.space</a
               ></v-btn
             >
           </v-card-actions>
@@ -98,7 +110,7 @@
 
 <script>
 export default {
-  name: "Home",
+  name: "Tecnologia",
 };
 </script>
 
@@ -126,5 +138,8 @@ a {
 }
 .avatars {
   padding: 20px;
+}
+.logo {
+  margin: 5px;
 }
 </style>
