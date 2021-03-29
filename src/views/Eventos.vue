@@ -14,7 +14,8 @@
                 alt="Bruno Penna"
               />
             </v-avatar>
-            <img style="width:200px; height:109px;"
+            <img
+              style="width: 200px; height: 109px"
               class="logo"
               src="../../assets/images/eventos/logo-melhor-compra-do-cadeg.png"
               alt="Logo Melhor Compra do CADEG"
@@ -62,7 +63,8 @@
                 alt="Luiz Adriano"
               />
             </v-avatar>
-            <img style="width:200px; height:116px;"
+            <img
+              style="width: 200px; height: 116px"
               class="logo"
               src="../../assets/images/eventos/folivora_logo.png"
               alt="Logo Folivora Gin"
@@ -110,7 +112,8 @@
                 alt="Margareth Galves"
               />
             </v-avatar>
-            <img style="width:200px; height:37px;"
+            <img
+              style="width: 200px; height: 37px"
               class="logo"
               src="../../assets/images/eventos/limppo_multiservicos_logo.png"
               alt="Logo Limppo Multiserviços"
@@ -140,7 +143,7 @@
           <v-card-actions>
             <v-btn text
               ><a href="https://limppo.com.br/"
-                >‎<v-icon>mdi-earth</v-icon> limppo.com.b</a
+                >‎<v-icon>mdi-earth</v-icon> limppo.com.br</a
               ></v-btn
             >
           </v-card-actions>

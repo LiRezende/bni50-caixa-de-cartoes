@@ -43,6 +43,14 @@
               <v-list-item-title>About</v-list-item-title>
             </v-list-item>
           </router-link>
+          <router-link to="/interiores">
+            <v-list-item>
+              <v-list-item-icon>
+                <v-icon>mdi-user-group</v-icon>
+              </v-list-item-icon>
+              <v-list-item-title>Interiores</v-list-item-title>
+            </v-list-item>
+          </router-link>
           <router-link to="/eventos">
             <v-list-item>
               <v-list-item-icon>
@@ -57,6 +65,14 @@
                 <v-icon>mdi-user-group</v-icon>
               </v-list-item-icon>
               <v-list-item-title>Tecnologia</v-list-item-title>
+            </v-list-item>
+          </router-link>
+          <router-link to="/lazer">
+            <v-list-item>
+              <v-list-item-icon>
+                <v-icon>mdi-user-group</v-icon>
+              </v-list-item-icon>
+              <v-list-item-title>Lazer</v-list-item-title>
             </v-list-item>
           </router-link>
         </v-list-item-group>

@@ -14,7 +14,8 @@
                 alt="Evaristo Quintão"
               />
             </v-avatar>
-            <img style="width:200px; height:88px;"
+            <img
+              style="width: 200px; height: 88px"
               class="logo"
               src="../../assets/images/tecnologia/big5-technologies.png"
               alt="Logo Big5 Technologies"
@@ -64,7 +65,8 @@
                 alt="Ligia Brusamolin"
               />
             </v-avatar>
-            <img style="width:200px; height:79px;"
+            <img
+              style="width: 200px; height: 79px"
               class="logo"
               src="../../assets/images/tecnologia/logo-molin-space.png"
               alt="Logo Molin Space Desenvolvimento Web"
@@ -127,11 +129,6 @@ a {
   color: #505050;
   text-align: center;
   margin-bottom: 30px;
-}
-.area {
-  color: #505050;
-  margin-top: 20px;
-  margin-bottom: 20px;
 }
 .card-area {
   margin: 10px;
