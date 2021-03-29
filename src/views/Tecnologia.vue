@@ -9,7 +9,7 @@
         <v-card class="card-area" elevation="20">
           <v-avatar size="150">
             <img
-              src="https://www.bniconnectglobal.com/web/open/networkViewProfileImage/5fe288d20cf2acd5d34680ba.jpg"
+              src="https://github.com/LiRezende/images-cxc/blob/main/assets/images/tecnologia/evaristo-quintao-foto.png"
               alt="Evaristo Quintão"
             />
           </v-avatar>
