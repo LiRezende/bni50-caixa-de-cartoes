@@ -9,9 +9,16 @@
         <v-card class="card-area" elevation="20">
           <v-row class="avatars">
             <v-avatar size="150">
-              <img src="#" alt="Bruno Penna" />
+              <img
+                src="../../assets/images/eventos/foto_bruno_penna.jpg"
+                alt="Bruno Penna"
+              />
             </v-avatar>
-            <img src="#" alt="Logo Melhor Compra do CADEG" />
+            <img
+              class="logo"
+              src="../../assets/images/eventos/logo-melhor-compra-do-cadeg.png"
+              alt="Logo Melhor Compra do CADEG"
+            />
           </v-row>
           <v-card-title>Bruno Penna</v-card-title>
           <v-card-subtitle
@@ -50,9 +57,16 @@
         <v-card class="card-area" elevation="20">
           <v-row class="avatars">
             <v-avatar size="150">
-              <img src="#" alt="" />
+              <img
+                src="../../assets/images/eventos/foto_luiz_adriano.jpg"
+                alt="Luiz Adriano"
+              />
             </v-avatar>
-            <img src="#" alt="#" />
+            <img
+              class="logo"
+              src="../../assets/images/eventos/folivora_logo.png"
+              alt="Logo Folivora Gin"
+            />
           </v-row>
           <v-card-title>Luiz Adriano</v-card-title>
           <v-card-subtitle
@@ -91,9 +105,16 @@
         <v-card class="card-area" elevation="20">
           <v-row class="avatars">
             <v-avatar size="150">
-              <img src="#" alt="" />
+              <img
+                src="../../assets/images/eventos/foto_margareth_galves.jpg"
+                alt="Margareth Galves"
+              />
             </v-avatar>
-            <img src="#" alt="#" />
+            <img
+              class="logo"
+              src="../../assets/images/eventos/limppo_multiservicos_logo.png"
+              alt="Logo Limppo Multiserviços"
+            />
           </v-row>
           <v-card-title>Margareth Galves</v-card-title>
           <v-card-subtitle
@@ -159,5 +180,8 @@ a {
 }
 .avatars {
   padding: 20px;
+}
+.logo {
+  margin: 5px;
 }
 </style>

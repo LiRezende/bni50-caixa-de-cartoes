@@ -10,7 +10,7 @@
           <v-row class="avatars">
             <v-avatar size="150">
               <img
-                src="../../assets/images/tecnologia/evaristo-quintao-foto.png"
+                src="../../assets/images/tecnologia/foto_evaristo_quintao.jpg"
                 alt="Evaristo Quintão"
               />
             </v-avatar>
@@ -58,9 +58,9 @@
       <v-flex xs12 md6>
         <v-card class="card-area" elevation="20">
           <v-row class="avatars">
-            <v-avatar size="100">
+            <v-avatar size="150">
               <img
-                src="../../assets/images/tecnologia/ligia-brusamolin-foto.jpg"
+                src="../../assets/images/tecnologia/foto_ligia_brusamolin.jpg"
                 alt="Ligia Brusamolin"
               />
             </v-avatar>
