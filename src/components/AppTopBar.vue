@@ -43,6 +43,22 @@
               <v-list-item-title>About</v-list-item-title>
             </v-list-item>
           </router-link>
+          <router-link to="/eventos">
+            <v-list-item>
+              <v-list-item-icon>
+                <v-icon>mdi-user-group</v-icon>
+              </v-list-item-icon>
+              <v-list-item-title>Eventos</v-list-item-title>
+            </v-list-item>
+          </router-link>
+          <router-link to="/tecnologia">
+            <v-list-item>
+              <v-list-item-icon>
+                <v-icon>mdi-user-group</v-icon>
+              </v-list-item-icon>
+              <v-list-item-title>Tecnologia</v-list-item-title>
+            </v-list-item>
+          </router-link>
         </v-list-item-group>
       </v-list>
     </v-navigation-drawer>
