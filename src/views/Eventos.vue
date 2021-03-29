@@ -14,7 +14,7 @@
                 alt="Bruno Penna"
               />
             </v-avatar>
-            <img
+            <img style="width:200px; height:109px;"
               class="logo"
               src="../../assets/images/eventos/logo-melhor-compra-do-cadeg.png"
               alt="Logo Melhor Compra do CADEG"
@@ -62,7 +62,7 @@
                 alt="Luiz Adriano"
               />
             </v-avatar>
-            <img
+            <img style="width:200px; height:116px;"
               class="logo"
               src="../../assets/images/eventos/folivora_logo.png"
               alt="Logo Folivora Gin"
@@ -110,7 +110,7 @@
                 alt="Margareth Galves"
               />
             </v-avatar>
-            <img
+            <img style="width:200px; height:37px;"
               class="logo"
               src="../../assets/images/eventos/limppo_multiservicos_logo.png"
               alt="Logo Limppo Multiserviços"
