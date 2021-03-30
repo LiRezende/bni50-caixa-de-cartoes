@@ -72,6 +72,14 @@
               <v-list-item-title>Eventos</v-list-item-title>
             </v-list-item>
           </router-link>
+          <router-link to="/desenvolvimento-humano">
+            <v-list-item>
+              <v-list-item-icon>
+                <v-icon>mdi-user-group</v-icon>
+              </v-list-item-icon>
+              <v-list-item-title>Desenvolvimento Humano</v-list-item-title>
+            </v-list-item>
+          </router-link>
           <router-link to="/tecnologia">
             <v-list-item>
               <v-list-item-icon>

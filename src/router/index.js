@@ -6,6 +6,7 @@ import Interiores from '../views/Interiores.vue'
 import Imobiliária from '../views/Imobiliaria.vue'
 import Comunicação from '../views/Comunicacao.vue'
 import Eventos from '../views/Eventos.vue'
+import DesenvolvimentoHumano from '../views/DesenvolvimentoHumano.vue'
 import Tecnologia from '../views/Tecnologia.vue'
 import Lazer from '../views/Lazer.vue'
 
@@ -42,6 +43,11 @@ const routes = [
     path: '/eventos',
     name: 'eventos',
     component: Eventos
+  },
+  {
+    path: '/desenvolvimento-humano',
+    name: 'desenvolvimento-humano',
+    component: DesenvolvimentoHumano
   },
   {
     path: '/tecnologia',
