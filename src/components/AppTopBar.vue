@@ -96,6 +96,14 @@
               <v-list-item-title>Tecnologia</v-list-item-title>
             </v-list-item>
           </router-link>
+          <router-link to="/beleza-saude-e-bem-estar">
+            <v-list-item>
+              <v-list-item-icon>
+                <v-icon>mdi-user-group</v-icon>
+              </v-list-item-icon>
+              <v-list-item-title>Beleza, Saúde & Bem Estar</v-list-item-title>
+            </v-list-item>
+          </router-link>
           <router-link to="/lazer">
             <v-list-item>
               <v-list-item-icon>

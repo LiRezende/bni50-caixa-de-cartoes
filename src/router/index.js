@@ -8,6 +8,7 @@ import Comunicação from '../views/Comunicacao.vue'
 import Eventos from '../views/Eventos.vue'
 import DesenvolvimentoHumano from '../views/DesenvolvimentoHumano.vue'
 import ServiçosPessoais from '../views/ServicosPessoais.vue'
+import BelezaSaude from '../views/BelezaSaude.vue'
 import Tecnologia from '../views/Tecnologia.vue'
 import Lazer from '../views/Lazer.vue'
 
@@ -54,6 +55,11 @@ const routes = [
     path: '/servicos-pessoais',
     name: 'servicos-pessoais',
     component: ServiçosPessoais
+  },
+  {
+    path: '/beleza-saude-e-bem-estar',
+    name: 'beleza-saude-e-bem-estar',
+    component: BelezaSaude
   },
   {
     path: '/tecnologia',

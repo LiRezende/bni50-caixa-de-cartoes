@@ -2,7 +2,7 @@
   <v-container>
     <div class="header">
       <h1>Caixa de Cartões BNI 50</h1>
-      <h2>Área de Serviços Pessoais</h2>
+      <h2>Área de Beleza, Saúde & Bem Estar</h2>
     </div>
     <v-layout row wrap>
       <v-flex xs12 md6>
@@ -10,45 +10,42 @@
           <v-row class="avatars">
             <v-avatar size="150">
               <img
-                src="../../assets/images/servicos_pessoais/foto-anderson-vitorino.jpg"
-                alt="Anderson Vitorino"
+                src="../../assets/images/beleza_saude/foto-andre-hazan_crop.jpg"
+                alt="André Hazan"
               />
             </v-avatar>
             <img
-              style="width: 200px; height: 49px"
+              style="width: 200px; height: 69px"
               class="logo"
-              src="../../assets/images/servicos_pessoais/logo_valdir_e_vinicius.png"
-              alt="Logo Valdir e Vinicius Ótica"
+              src="../../assets/images/beleza_saude/logo_andre_hazan.jpg"
+              alt="Logo Clínica de Cirurgia Plástica André Hazan"
             />
           </v-row>
-          <v-card-title>Anderson Vitorino</v-card-title>
+          <v-card-title>André Hazan</v-card-title>
           <v-card-subtitle
-            ><strong>Valdir e Vinicius</strong> | Ótica</v-card-subtitle
+            ><strong>Consultório Dr. André Hazan</strong> | Cirurgia Plástica</v-card-subtitle
           >
           <v-card-text
-            >Somos uma empresa familiar com mais de 35 anos de experiência no
-            segmento de ótica. Oferecemos uma vasta gama de produtos das mais
-            respeitosas marcas, para atender com eficiência, qualidade e
-            personalidade a todos os nossos clientes.
+            >Cirurgia Plástica Estética e Reconstrutora.
           </v-card-text>
           <v-card-actions>
             <v-btn text
-              ><a href="https://api.whatsapp.com/send?phone=5521981818012"
-                ><v-icon>mdi-whatsapp</v-icon> +55 21 98181-8012</a
+              ><a href="https://api.whatsapp.com/send?phone=5521999820098"
+                ><v-icon>mdi-whatsapp</v-icon> +55 21 99982-0098</a
               ></v-btn
             >
           </v-card-actions>
           <v-card-actions>
             <v-btn text
-              ><a href="mailto:‎avitorinorj@gmail.com"
-                >‎<v-icon>mdi-email-outline</v-icon> avitorinorj@gmail.com</a
+              ><a href="mailto:‎‎ah@andrehazan.com"
+                >‎<v-icon>mdi-email-outline</v-icon> ‎ah@andrehazan.com</a
               ></v-btn
             >
           </v-card-actions>
           <v-card-actions>
             <v-btn text
-              ><a href="http://www.valdireviniciusotica.com.br/"
-                >‎<v-icon>mdi-earth</v-icon> valdireviniciusotica.com.br</a
+              ><a href="https://andrehazan.com/"
+                >‎<v-icon>mdi-earth</v-icon> andrehazan.com</a
               ></v-btn
             >
           </v-card-actions>
@@ -59,45 +56,43 @@
           <v-row class="avatars">
             <v-avatar size="150">
               <img
-                src="../../assets/images/servicos_pessoais/foto-ariadne_1x1.jpg"
-                alt="Ariadne Maranhão"
+                src="../../assets/images/beleza_saude/foto_carla_christoph.jpg"
+                alt="Carla Christoph"
               />
             </v-avatar>
             <img
-              style="width: 200px; height: 53px"
+              style="width: 200px; height: 93px"
               class="logo"
-              src="../../assets/images/servicos_pessoais/logo_ariadne_maranhao.png"
-              alt="Logo Ariadne Maranhão Advogados Associados"
+              src="../../assets/images/beleza_saude/logo_carla_christoph.jpg"
+              alt="Logo Consultório Odontológico Dra. Carla Christoph"
             />
           </v-row>
-          <v-card-title>Ariadne Maranhão</v-card-title>
+          <v-card-title>Carla Christoph</v-card-title>
           <v-card-subtitle
-            ><strong>Ariadne Maranhão Advogados Associados</strong> | Advogado
-            de Família</v-card-subtitle
+            ><strong>Dra. Carla Christoph</strong> | Odontologia Estética</v-card-subtitle
           >
           <v-card-text
-            >Advogada especializada em Direito Homoafetivo, Direito das Famílias
-            e Sucessões.
+            >Clareamento, restaurações e lentes de contato dentais.
           </v-card-text>
           <v-card-actions>
             <v-btn text
-              ><a href="https://api.whatsapp.com/send?phone=5521999950882"
-                ><v-icon>mdi-whatsapp</v-icon> +55 21 99995-0882</a
+              ><a href="https://api.whatsapp.com/send?phone=5521988772543"
+                ><v-icon>mdi-whatsapp</v-icon> +55 21 98877-2543</a
               ></v-btn
             >
           </v-card-actions>
           <v-card-actions>
             <v-btn text
-              ><a href="mailto:ariadne@ariadnemaranhao.adv.br"
+              ><a href="mailto:contato@dracarlachristoph.com"
                 >‎<v-icon>mdi-email-outline</v-icon>
-                ariadne@ariadnemaranhao.adv.br</a
+                contato@dracarlachristoph.com</a
               ></v-btn
             >
           </v-card-actions>
           <v-card-actions>
             <v-btn text
-              ><a href="https://ariadnemaranhao.adv.br/"
-                >‎<v-icon>mdi-earth</v-icon> ariadnemaranhao.adv.br</a
+              ><a href="https://www.dracarlachristoph.com/"
+                >‎<v-icon>mdi-earth</v-icon> dracarlachristoph.com</a
               ></v-btn
             >
           </v-card-actions>
