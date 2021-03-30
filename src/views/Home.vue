@@ -1,7 +1,7 @@
 <template>
   <v-container>
     <div class="header">
-      <h1>Caixa de Cartões BNI 50 Ipanema</h1>
+      <h1>Caixa de Cartões BNI 50</h1>
       <h2>Aqui você encontra o contato de todos os membros de nosso grupo.</h2>
     </div>
     <div class="area">

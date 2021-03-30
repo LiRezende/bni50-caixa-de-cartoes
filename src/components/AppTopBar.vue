@@ -7,12 +7,12 @@
 
       <v-btn icon>
         <a href="https://www.linkedin.com/company/bni50/">
-        <v-icon color="#fff">mdi-linkedin</v-icon>
+          <v-icon color="#fff">mdi-linkedin</v-icon>
         </a>
       </v-btn>
       <v-btn icon>
         <a href="https://www.instagram.com/bni50/?hl=pt-br">
-        <v-icon color="#fff">mdi-instagram</v-icon>
+          <v-icon color="#fff">mdi-instagram</v-icon>
         </a>
       </v-btn>
       <template v-slot:activator="{ on, attrs }">
@@ -23,10 +23,7 @@
     </v-app-bar>
     <v-navigation-drawer v-model="drawer" absolute temporary>
       <v-list nav dense>
-        <v-list-item-group
-          v-model="group"
-          active-class=""
-        >
+        <v-list-item-group v-model="group" active-class="">
           <router-link to="/">
             <v-list-item>
               <v-list-item-icon>
@@ -49,6 +46,22 @@
                 <v-icon>mdi-user-group</v-icon>
               </v-list-item-icon>
               <v-list-item-title>Interiores</v-list-item-title>
+            </v-list-item>
+          </router-link>
+          <router-link to="/imobiliaria">
+            <v-list-item>
+              <v-list-item-icon>
+                <v-icon>mdi-user-group</v-icon>
+              </v-list-item-icon>
+              <v-list-item-title>Imobiliária</v-list-item-title>
+            </v-list-item>
+          </router-link>
+          <router-link to="/comunicacao">
+            <v-list-item>
+              <v-list-item-icon>
+                <v-icon>mdi-user-group</v-icon>
+              </v-list-item-icon>
+              <v-list-item-title>Comunicação</v-list-item-title>
             </v-list-item>
           </router-link>
           <router-link to="/eventos">

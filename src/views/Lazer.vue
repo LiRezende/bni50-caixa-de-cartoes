@@ -1,7 +1,7 @@
 <template>
   <v-container>
     <div class="header">
-      <h1>Caixa de Cartões BNI 50 Ipanema</h1>
+      <h1>Caixa de Cartões BNI 50</h1>
       <h2>Área de Lazer</h2>
     </div>
     <v-layout row wrap>
