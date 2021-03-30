@@ -115,45 +115,41 @@
           <v-row class="avatars">
             <v-avatar size="150">
               <img
-                src="../../assets/images/comunicacao/foto_raquel_reis.jpg"
-                alt="Raquel Reis"
+                src="../../assets/images/desenvolvimento_humano/foto_mara.jpg"
+                alt="Mara Fiorini"
               />
             </v-avatar>
             <img
-              style="width: 200px; height: 56px"
+              style="width: 200px; height: 50px"
               class="logo"
-              src="../../assets/images/comunicacao/logo_monada_solucoes_criativas.png"
-              alt="Logo Mônada Soluções Criativas"
+              src="../../assets/images/desenvolvimento_humano/logo_mara_fiorini.png"
+              alt="Logo Mara Fiorini Consultoria de Imagem"
             />
           </v-row>
-          <v-card-title>Raquel Reis</v-card-title>
+          <v-card-title>Mara Fiorini</v-card-title>
           <v-card-subtitle
-            ><strong>Mônada Soluções Criativas</strong> | Marketing Digital e
-            Redes Sociais</v-card-subtitle
+            ><strong>Mara Fiorini Consultoria de Imagem & Estilo</strong> |
+            Consultoria de Imagem</v-card-subtitle
           >
-          <v-card-text>
-            Gestão de marcas na web através do branding digital, marketing
-            digital, mídias sociais, anúncios digitais e design estratégico.
-          </v-card-text>
+          <v-card-text> Consultora de imagem e estilo. </v-card-text>
           <v-card-actions>
             <v-btn text
-              ><a href="https://api.whatsapp.com/send?phone=5521988548460"
-                ><v-icon>mdi-whatsapp</v-icon> +55 21 98854-8460</a
+              ><a href="https://api.whatsapp.com/send?phone=5521988932044"
+                ><v-icon>mdi-whatsapp</v-icon> +55 21 98893-2044</a
               ></v-btn
             >
           </v-card-actions>
           <v-card-actions>
             <v-btn text
-              ><a href="mailto:‎raquel@monadasolucoes.com.br"
-                >‎<v-icon>mdi-email-outline</v-icon>
-                raquel@monadasolucoes.com.br</a
+              ><a href="mailto:marasosmoda@hotmail.com"
+                >‎<v-icon>mdi-email-outline</v-icon> marasosmoda@hotmail.com</a
               ></v-btn
             >
           </v-card-actions>
           <v-card-actions>
             <v-btn text
-              ><a href="http://www.monadasolucoes.com.br/"
-                >‎<v-icon>mdi-earth</v-icon> monadasolucoes.com.br</a
+              ><a href="https://www.instagram.com/marafiorini/"
+                >‎<v-icon>mdi-earth</v-icon> instagram.com/marafiorini</a
               ></v-btn
             >
           </v-card-actions>
@@ -164,48 +160,98 @@
           <v-row class="avatars">
             <v-avatar size="150">
               <img
-                src="../../assets/images/comunicacao/foto_rogerio_kruger.jpg"
-                alt="Rogério Von Krüger"
+                src="../../assets/images/desenvolvimento_humano/foto_marcelo_penna.jpg"
+                alt="Marcelo Penna"
               />
             </v-avatar>
             <img
-              style="width: 150px; height: 141px"
+              style="width: 150px; height: 67px"
               class="logo"
-              src="../../assets/images/comunicacao/logo_mapa.jpg"
-              alt="Logo Mônada Soluções Criativas"
+              src="../../assets/images/desenvolvimento_humano/logo_instituto_humannum.png"
+              alt="Logo Humannum L. Alta Performance"
             />
           </v-row>
-          <v-card-title>Rogério Von Krüger</v-card-title>
+          <v-card-title>Marcelo Penna</v-card-title>
           <v-card-subtitle
-            ><strong>Mapa Fotografia</strong> | Fotografia</v-card-subtitle
+            ><strong>Humannum L. Alta Performance</strong> | Treinamento em
+            PNL</v-card-subtitle
           >
           <v-card-text
-            >A Mapa Fotografia é uma empresa de construção e criação de imagem
-            corporativa, e nossos principais serviços são: - criação de banco de
-            imagem; - produção de conteúdo; - fotos institucionais; - retratos;
-            - cobertura de eventos artísticos (shows, festivais e espetáculos);
-            - cobertura de seminários e congressos e - cobertura de grandes
-            eventos.</v-card-text
+            >Treinamentos e Palestras sobre Comportamentos e Inteligência
+            Emocional com PNL.</v-card-text
           >
           <v-card-actions>
             <v-btn text
-              ><a href="https://api.whatsapp.com/send?phone=5521992185247"
-                ><v-icon>mdi-whatsapp</v-icon> +55 21 99218-5247</a
+              ><a href="https://api.whatsapp.com/send?phone=5521964363958"
+                ><v-icon>mdi-whatsapp</v-icon> +55 21 96436-3958</a
               ></v-btn
             >
           </v-card-actions>
           <v-card-actions>
             <v-btn text
-              ><a href="mailto:‎rogerio.mapafotografia@gmail.com"
+              ><a href="mailto:m.pennasoares@gmail.com"
+                >‎<v-icon>mdi-email-outline</v-icon> m.pennasoares@gmail.com</a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="http://www.humannum.com.br/"
+                >‎<v-icon>mdi-earth</v-icon> humannum.com.br</a
+              ></v-btn
+            >
+          </v-card-actions>
+        </v-card>
+      </v-flex>
+      <v-flex xs12 md6>
+        <v-card class="card-area" elevation="20">
+          <v-row class="avatars">
+            <v-avatar size="150">
+              <img
+                src="../../assets/images/desenvolvimento_humano/foto_roberto_pons.jpg"
+                alt="Roberto Pons"
+              />
+            </v-avatar>
+            <img
+              style="width: 150px; height: 92px"
+              class="logo"
+              src="../../assets/images/desenvolvimento_humano/logo_plab.png"
+              alt="Logo P. Lab"
+            />
+          </v-row>
+          <v-card-title>Roberto Pons</v-card-title>
+          <v-card-subtitle
+            ><strong>P. Lab</strong> | Cursos e Treinamentos
+            Corporativos</v-card-subtitle
+          >
+          <v-card-text
+            >Iniciando suas atividades em 2003, a Projectlab atua com
+            Transformação Organizacional e Desenvolvimento Profissional, sob 4
+            pilares de conhecimento: Gestão de Projetos, Agilidade, Liderança e
+            Negócios. Desenvolve e oferece programas educacionais abertos
+            presenciais e online nessas 4 áreas. Representa a empresa americana
+            RMC no Brasil de treinamento para certificações
+            profissionais.</v-card-text
+          >
+          <v-card-actions>
+            <v-btn text
+              ><a href="https://api.whatsapp.com/send?phone=5521991568656"
+                ><v-icon>mdi-whatsapp</v-icon> +55 21 99156-8656</a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="mailto:roberto.pons@projectlab.com.br"
                 >‎<v-icon>mdi-email-outline</v-icon>
-                rogerio.mapafotografia@gmail.com</a
+                roberto.pons@projectlab.com.br</a
               ></v-btn
             >
           </v-card-actions>
           <v-card-actions>
             <v-btn text
-              ><a href="http://www.mapafotografia.com/"
-                >‎<v-icon>mdi-earth</v-icon> mapafotografia.com</a
+              ><a href="https://p-lab.pro/"
+                >‎<v-icon>mdi-earth</v-icon> p-lab.pro</a
               ></v-btn
             >
           </v-card-actions>
