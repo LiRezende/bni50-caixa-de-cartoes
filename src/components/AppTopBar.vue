@@ -80,6 +80,14 @@
               <v-list-item-title>Desenvolvimento Humano</v-list-item-title>
             </v-list-item>
           </router-link>
+          <router-link to="/servicos-pessoais">
+            <v-list-item>
+              <v-list-item-icon>
+                <v-icon>mdi-user-group</v-icon>
+              </v-list-item-icon>
+              <v-list-item-title>Serviços Pessoais</v-list-item-title>
+            </v-list-item>
+          </router-link>
           <router-link to="/tecnologia">
             <v-list-item>
               <v-list-item-icon>
