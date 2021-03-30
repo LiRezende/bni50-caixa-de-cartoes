@@ -23,7 +23,8 @@
           </v-row>
           <v-card-title>André Hazan</v-card-title>
           <v-card-subtitle
-            ><strong>Consultório Dr. André Hazan</strong> | Cirurgia Plástica</v-card-subtitle
+            ><strong>Consultório Dr. André Hazan</strong> | Cirurgia
+            Plástica</v-card-subtitle
           >
           <v-card-text
             >Cirurgia Plástica Estética e Reconstrutora.
@@ -69,7 +70,8 @@
           </v-row>
           <v-card-title>Carla Christoph</v-card-title>
           <v-card-subtitle
-            ><strong>Dra. Carla Christoph</strong> | Odontologia Estética</v-card-subtitle
+            ><strong>Dra. Carla Christoph</strong> | Odontologia
+            Estética</v-card-subtitle
           >
           <v-card-text
             >Clareamento, restaurações e lentes de contato dentais.
@@ -103,49 +105,42 @@
           <v-row class="avatars">
             <v-avatar size="150">
               <img
-                src="../../assets/images/servicos_pessoais/foto_cynthia_selly.jpg"
-                alt="Cynthia Selly"
+                src="../../assets/images/beleza_saude/foto_fabricia.jpg"
+                alt="Fabrícia de Paula"
               />
             </v-avatar>
             <img
-              style="width: 200px; height: 84px"
+              style="width: 200px; height: 106px"
               class="logo"
-              src="../../assets/images/servicos_pessoais/logo_we_sure.png"
-              alt="Logo Wesure Seguros Integrados"
+              src="../../assets/images/beleza_saude/logo_fabricia_de_paula.png"
+              alt="Logo Consultório Dra. Fabrícia de Paula"
             />
           </v-row>
-          <v-card-title>Cynthia Selly</v-card-title>
+          <v-card-title>Fabrícia de Paula</v-card-title>
           <v-card-subtitle
-            ><strong>Wesure Seguros Integrados</strong> | Seguros
-            Pessoais</v-card-subtitle
+            ><strong>Consultório Dra. Fabrícia de Paula</strong> | Medicina
+            Estética</v-card-subtitle
           >
-          <v-card-text
-            >Especialista em desenvolver apólices de seguro de vida
-            personalizadas para profissionais liberais, empresários, médicos,
-            famílias, com o foco em: proteção financeira, proteção pessoal,
-            proteção familiar, inventário e sucessão empresarial. - Plano de
-            Saúde Adesão - Previdência Privada - Consórcio - Responsabilidade
-            Civil Profissional Entre outos produtos e soluções para você e sua
-            família.</v-card-text
-          >
+          <v-card-text>Saúde e auto estima.</v-card-text>
           <v-card-actions>
             <v-btn text
-              ><a href="https://api.whatsapp.com/send?phone=5521988702499"
-                ><v-icon>mdi-whatsapp</v-icon> +55 21 98870-2499</a
+              ><a href="https://api.whatsapp.com/send?phone=5521979453435"
+                ><v-icon>mdi-whatsapp</v-icon> +55 21 97945-3435</a
               ></v-btn
             >
           </v-card-actions>
           <v-card-actions>
             <v-btn text
-              ><a href="mailto:cynthia@wesure.com.br"
-                >‎<v-icon>mdi-email-outline</v-icon> cynthia@wesure.com.br</a
+              ><a href="mailto:drfabriciadepaula@gmail.com"
+                >‎<v-icon>mdi-email-outline</v-icon>
+                drfabriciadepaula@gmail.com</a
               ></v-btn
             >
           </v-card-actions>
           <v-card-actions>
             <v-btn text
-              ><a href="https://www.wesure.com.br/"
-                >‎<v-icon>mdi-earth</v-icon> wesure.com.br</a
+              ><a href="https://www.instagram.com/drafabriciadepaula/"
+                >‎<v-icon>mdi-earth</v-icon> instagram.com/drafabriciadepaula</a
               ></v-btn
             >
           </v-card-actions>
@@ -156,42 +151,46 @@
           <v-row class="avatars">
             <v-avatar size="150">
               <img
-                src="../../assets/images/servicos_pessoais/foto_marcos_moura.jpg"
-                alt="Marcos Moura"
+                src="../../assets/images/beleza_saude/foto-hugo.jpeg"
+                alt="Hugo Zamponi"
               />
             </v-avatar>
             <img
-              style="width: 200px; height: 164px"
+              style="width: 200px; height: 68px"
               class="logo"
-              src="../../assets/images/servicos_pessoais/logo_marcos_moura.png"
-              alt="Logo Marvin Mudanças"
+              src="../../assets/images/beleza_saude/logo_health_life.jpg"
+              alt="Logo Health Life Business"
             />
           </v-row>
-          <v-card-title>Marcos Moura</v-card-title>
+          <v-card-title>Hugo Zamponi</v-card-title>
           <v-card-subtitle
-            ><strong>Marvin Mudanças</strong> | Empresa de
-            Mudança</v-card-subtitle
+            ><strong>Health Life Business</strong> | Produtos para Saúde e Bem
+            Estar</v-card-subtitle
           >
-          <v-card-text>Mudanças e armazenamento.</v-card-text>
+          <v-card-text
+            >Locar e vender produtos para saúde, focado na área de terapias
+            respiratórias. Desenvolvemos projetos para saúde. Nossa missão é
+            entregar soluções. Nosso diferencial é o Know-how
+            clínico.</v-card-text
+          >
           <v-card-actions>
             <v-btn text
-              ><a href="https://api.whatsapp.com/send?phone=5521984933786"
-                ><v-icon>mdi-whatsapp</v-icon> +55 21 98493-3786</a
+              ><a href="https://api.whatsapp.com/send?phone=5521981972333"
+                ><v-icon>mdi-whatsapp</v-icon> +55 21 98197-2333</a
               ></v-btn
             >
           </v-card-actions>
           <v-card-actions>
             <v-btn text
-              ><a href="mailto:contato@marvinmudancas.com.br"
-                >‎<v-icon>mdi-email-outline</v-icon>
-                contato@marvinmudancas.com.br</a
+              ><a href="mailto:hlzamponi@gmail.com"
+                >‎<v-icon>mdi-email-outline</v-icon> hlzamponi@gmail.com</a
               ></v-btn
             >
           </v-card-actions>
           <v-card-actions>
             <v-btn text
-              ><a href="http://www.marvinmudancas.com.br/"
-                >‎<v-icon>mdi-earth</v-icon> marvinmudancas.com.br</a
+              ><a href="http://www.healthlb.com.br/"
+                >‎<v-icon>mdi-earth</v-icon> healthlb.com.br</a
               ></v-btn
             >
           </v-card-actions>
@@ -202,44 +201,52 @@
           <v-row class="avatars">
             <v-avatar size="150">
               <img
-                src="../../assets/images/servicos_pessoais/foto_marina_vergilli.jpg"
-                alt="Marina Vergilli"
+                src="../../assets/images/beleza_saude/foto_suellen.jpg"
+                alt="Suellen Araújo"
               />
             </v-avatar>
             <img
-              style="width: 150px; height: 92px"
+              style="width: 191px; height: 37px"
               class="logo"
-              src="../../assets/images/servicos_pessoais/logo_vergilli.jpg"
-              alt="Logo Vergili Consultoria"
+              src="../../assets/images/beleza_saude/logo_clinica_de_longevidade.png"
+              alt="Logo Clínica de Longevidade"
             />
           </v-row>
-          <v-card-title>Marina Vergilli</v-card-title>
+          <v-card-title>Suellen Araújo</v-card-title>
           <v-card-subtitle
-            ><strong>Vergili Consultoria</strong> | Coaching de Executivos e
-            Negócios</v-card-subtitle
+            ><strong>Clínica de Longevidade</strong> | Médica
+            Nutróloga</v-card-subtitle
           >
           <v-card-text
-            >Coaching, Coaching de Executivos e Negócios.</v-card-text
+            >Pratico uma medicina centrada no ser-humano, educando e estimulando
+            o papel central do paciente na sua evolução, com melhora da
+            qualidade de vida e bem-estar. Abordagem nutrológica, com melhora da
+            alimentação e suplementação de vitaminas e minerais (prática
+            ortomolecular) Terapias principais utilizadas: terapias injetáveis
+            (vitaminas por via endovenosa e intramuscular) , terapia neural,
+            ultrassonografia para avaliação de composição corporal, teste de
+            intolerância alimentar - Food Detective, terapia de quelação de
+            metais pesados.</v-card-text
           >
           <v-card-actions>
             <v-btn text
-              ><a href="https://api.whatsapp.com/send?phone=5521981419736"
-                ><v-icon>mdi-whatsapp</v-icon> +55 21 98141-9736</a
+              ><a href="https://api.whatsapp.com/send?phone=5521990922975"
+                ><v-icon>mdi-whatsapp</v-icon> +55 21 99092-2975</a
               ></v-btn
             >
           </v-card-actions>
           <v-card-actions>
             <v-btn text
-              ><a href="mailto:marina.a.vergili@gmail.com"
+              ><a href="mailto:viva@clinicadelongevidade.com.br"
                 >‎<v-icon>mdi-email-outline</v-icon>
-                marina.a.vergili@gmail.com</a
+                viva@clinicadelongevidade.com.br</a
               ></v-btn
             >
           </v-card-actions>
           <v-card-actions>
             <v-btn text
-              ><a href="http://www.coachthinking.com/"
-                >‎<v-icon>mdi-earth</v-icon> coachthinking.com</a
+              ><a href="http://www.clinicadelongevidade.com.br/"
+                >‎<v-icon>mdi-earth</v-icon> clinicadelongevidade.com.br</a
               ></v-btn
             >
           </v-card-actions>
