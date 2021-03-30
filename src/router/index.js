@@ -3,6 +3,7 @@ import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
 import About from '../views/About.vue'
 import Interiores from '../views/Interiores.vue'
+import FinancasAdvogados from '../views/FinancasAdvogados.vue'
 import Imobiliária from '../views/Imobiliaria.vue'
 import Comunicação from '../views/Comunicacao.vue'
 import Eventos from '../views/Eventos.vue'
@@ -30,6 +31,11 @@ const routes = [
     path: '/interiores',
     name: 'interiores',
     component: Interiores
+  },
+  {
+    path: '/financas-e-advogados',
+    name: 'financas-e-advogados',
+    component: FinancasAdvogados
   },
   {
     path: '/imobiliaria',
