@@ -208,12 +208,60 @@
           <v-row class="avatars">
             <v-avatar size="150">
               <img
+                src="../../assets/images/desenvolvimento_humano/foto_marina_vergilli.png"
+                alt="Marina Vergili"
+              />
+            </v-avatar>
+            <img
+              style="width: 200px; height: 74px"
+              class="logo"
+              src="../../assets/images/desenvolvimento_humano/logo_vergili.jpg"
+              alt="Logo Vergili Consultoria"
+            />
+          </v-row>
+          <v-card-title>Marina Vergili</v-card-title>
+          <v-card-subtitle
+            ><strong>Vergili Consultoria</strong> | Coaching de Executivos e
+            Negócios</v-card-subtitle
+          >
+          <v-card-text
+            >Coaching, Coaching de Executivos e Negócios.</v-card-text
+          >
+          <v-card-actions>
+            <v-btn text
+              ><a href="https://api.whatsapp.com/send?phone=5521981419736"
+                ><v-icon>mdi-whatsapp</v-icon> +55 21 98141-9736</a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="mailto:marina.a.vergili@gmail.com"
+                >‎<v-icon>mdi-email-outline</v-icon>
+                marina.a.vergili@gmail.com</a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="http://www.coachthinking.com/"
+                >‎<v-icon>mdi-earth</v-icon> coachthinking.com</a
+              ></v-btn
+            >
+          </v-card-actions>
+        </v-card>
+      </v-flex>
+      <v-flex xs12 md6>
+        <v-card class="card-area" elevation="20">
+          <v-row class="avatars">
+            <v-avatar size="150">
+              <img
                 src="../../assets/images/desenvolvimento_humano/foto_roberto_pons.jpg"
                 alt="Roberto Pons"
               />
             </v-avatar>
             <img
-              style="width: 150px; height: 92px"
+              style="width: 200px; height: 92px"
               class="logo"
               src="../../assets/images/desenvolvimento_humano/logo_plab.png"
               alt="Logo P. Lab"

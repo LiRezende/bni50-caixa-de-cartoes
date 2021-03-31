@@ -61,6 +61,56 @@
           <v-row class="avatars">
             <v-avatar size="150">
               <img
+                src="../../assets/images/interiores/foto_marcos_garcia.jpeg"
+                alt="Marcos Garcia"
+              />
+            </v-avatar>
+            <img
+              style="width: 128px; height: 46px"
+              class="logo"
+              src="../../assets/images/interiores/logo_delmak.jpg"
+              alt="Logo Delmak Automação Residencial"
+            />
+          </v-row>
+          <v-card-title>Marcos Garcia</v-card-title>
+          <v-card-subtitle
+            ><strong>Delmak Automação Residencial</strong> | Automação
+            Residencial e Comercial</v-card-subtitle
+          >
+          <v-card-text
+            >Fornecimento de equipamentos, instalação, configuração e
+            programação de sistemas de automação, Controle de Iluminação, Home
+            Theater, CFTV, Telefonia/Interfonia, Redes com e sem fio, Cortinas
+            motorizadas
+          </v-card-text>
+          <v-card-actions>
+            <v-btn text
+              ><a href="https://api.whatsapp.com/send?phone=5521997429837 "
+                ><v-icon>mdi-whatsapp</v-icon> +55 21 99742-9837
+              </a></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="mailto:‎delmak@delmak.com.br"
+                >‎<v-icon>mdi-email-outline</v-icon> delmak@delmak.com.br</a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="http://www.delmak.com.br/"
+                >‎<v-icon>mdi-earth</v-icon> delmak.com.br</a
+              ></v-btn
+            >
+          </v-card-actions>
+        </v-card>
+      </v-flex>
+      <v-flex xs12 md6>
+        <v-card class="card-area" elevation="20">
+          <v-row class="avatars">
+            <v-avatar size="150">
+              <img
                 src="../../assets/images/interiores/foto_rafael_moreira.jpg"
                 alt="Rafael Porto"
               />

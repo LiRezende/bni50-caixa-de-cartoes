@@ -10,6 +10,60 @@
           <v-row class="avatars">
             <v-avatar size="150">
               <img
+                src="../../assets/images/financas_advogados/foto_alex_motta_cardoso.jpg"
+                alt="Alex Motta Cardoso"
+              />
+            </v-avatar>
+            <img
+              style="width: 200px; height: 107px"
+              class="logo"
+              src="../../assets/images/financas_advogados/logo_cardoso_advocacia.jpg"
+              alt="Logo Cardoso Cintra Advocacia"
+            />
+          </v-row>
+          <v-card-title>Alex Motta Cardoso</v-card-title>
+          <v-card-subtitle
+            ><strong>Cardoso Cintra Advocacia</strong> | Direito do
+            Consumidor</v-card-subtitle
+          >
+          <v-card-text
+            >Sou advogado pós-graduado em Direito do Consumidor, membro da
+            comissão de diretos do consumidor da OAB/RJ, sócio do escritório
+            Cardoso Cindra Advocacia, que no BNI50 ocupa a cadeira de Direito do
+            Consumidor. Temos anos de experiência no mercado, atuando em âmbito
+            judicial e extrajudicial, tanto para pessoas físicas
+            (clientes/consumidores) quanto para pessoas jurídicas (empresas), em
+            busca de equilíbrio nas relações de consumo entre as partes.
+          </v-card-text>
+          <v-card-actions>
+            <v-btn text
+              ><a href="https://api.whatsapp.com/send?phone=5521991315381"
+                ><v-icon>mdi-whatsapp</v-icon> +55 21 99131-5381</a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="mailto:alexmottacardoso@hotmail.com"
+                >‎<v-icon>mdi-email-outline</v-icon>
+                ‎alexmottacardoso@hotmail.com</a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="http://www.cardosocindraadvocacia.com.br/"
+                >‎<v-icon>mdi-earth</v-icon> cardosocindraadvocacia.com.br</a
+              ></v-btn
+            >
+          </v-card-actions>
+        </v-card>
+      </v-flex>
+      <v-flex xs12 md6>
+        <v-card class="card-area" elevation="20">
+          <v-row class="avatars">
+            <v-avatar size="150">
+              <img
                 src="../../assets/images/financas_advogados/foto_diego_saul.jpg"
                 alt="Diego Saul"
               />
@@ -64,9 +118,9 @@
               />
             </v-avatar>
             <img
-              style="width: 200px; height: 41px"
+              style="width: 200px; height: 45px"
               class="logo"
-              src="../../assets/images/financas_advogados/logo_santucci.png"
+              src="../../assets/images/financas_advogados/logo_santucci.jpg"
               alt="Logo Escritório de Marcas e Patentes Santucci"
             />
           </v-row>
