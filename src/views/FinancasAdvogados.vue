@@ -2,7 +2,7 @@
   <v-container>
     <div class="header">
       <h1>Caixa de Cartões BNI 50</h1>
-      <h2>Finanças & Advogados</h2>
+      <h2>Área de Finanças & Advogados</h2>
     </div>
     <v-layout row wrap>
       <v-flex xs12 md6>
@@ -144,7 +144,7 @@
           <v-card-actions>
             <v-btn text
               ><a href="https://allinvestimentos.com.br/"
-                >‎<v-icon>mdi-earth</v-icon> https://allinvestimentos.com.br/</a
+                >‎<v-icon>mdi-earth</v-icon> allinvestimentos.com.br</a
               ></v-btn
             >
           </v-card-actions>
@@ -223,7 +223,7 @@
             ><strong>Ferrareze e Freitas Advogados</strong> | Advogado
             Tributário</v-card-subtitle
           >
-          <v-card-text>Advocacia Tributária</v-card-text>
+          <v-card-text>Advocacia Tributária.</v-card-text>
           <v-card-actions>
             <v-btn text
               ><a href="https://api.whatsapp.com/send?phone=5521998420192"

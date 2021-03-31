@@ -7,6 +7,7 @@ import FinancasAdvogados from '../views/FinancasAdvogados.vue'
 import Imobiliária from '../views/Imobiliaria.vue'
 import Comunicação from '../views/Comunicacao.vue'
 import Eventos from '../views/Eventos.vue'
+import ServicosEmpresariais from '../views/ServicosEmpresariais.vue'
 import DesenvolvimentoHumano from '../views/DesenvolvimentoHumano.vue'
 import ServiçosPessoais from '../views/ServicosPessoais.vue'
 import BelezaSaude from '../views/BelezaSaude.vue'
@@ -51,6 +52,11 @@ const routes = [
     path: '/eventos',
     name: 'eventos',
     component: Eventos
+  },
+  {
+    path: '/servicos-empresariais',
+    name: 'servicos-empresariais',
+    component: ServicosEmpresariais
   },
   {
     path: '/desenvolvimento-humano',

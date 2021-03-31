@@ -80,6 +80,14 @@
               <v-list-item-title>Eventos</v-list-item-title>
             </v-list-item>
           </router-link>
+          <router-link to="/servicos-empresariais">
+            <v-list-item>
+              <v-list-item-icon>
+                <v-icon>mdi-user-group</v-icon>
+              </v-list-item-icon>
+              <v-list-item-title>Serviços Empresariais</v-list-item-title>
+            </v-list-item>
+          </router-link>
           <router-link to="/desenvolvimento-humano">
             <v-list-item>
               <v-list-item-icon>

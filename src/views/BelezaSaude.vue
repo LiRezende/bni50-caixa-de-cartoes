@@ -258,7 +258,7 @@
 
 <script>
 export default {
-  name: "Serviços Pessoais",
+  name: "Beleza e Saúde",
 };
 </script>
 
