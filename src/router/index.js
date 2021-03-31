@@ -2,6 +2,7 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
 import About from '../views/About.vue'
+import EngenhariaConstrucao from '../views/EngenhariaConstrucao.vue'
 import Interiores from '../views/Interiores.vue'
 import FinancasAdvogados from '../views/FinancasAdvogados.vue'
 import Imobiliária from '../views/Imobiliaria.vue'
@@ -27,6 +28,11 @@ const routes = [
     path: '/about',
     name: 'About',
     component: About
+  },
+  {
+    path: '/engenharia-e-construcao',
+    name: 'engenharia-e-construcao',
+    component: EngenhariaConstrucao
   },
   {
     path: '/interiores',

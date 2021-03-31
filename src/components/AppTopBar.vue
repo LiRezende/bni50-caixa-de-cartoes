@@ -40,6 +40,14 @@
               <v-list-item-title>About</v-list-item-title>
             </v-list-item>
           </router-link>
+          <router-link to="/engenharia-e-construcao">
+            <v-list-item>
+              <v-list-item-icon>
+                <v-icon>mdi-user-group</v-icon>
+              </v-list-item-icon>
+              <v-list-item-title>Engenharia & Construção</v-list-item-title>
+            </v-list-item>
+          </router-link>
           <router-link to="/interiores">
             <v-list-item>
               <v-list-item-icon>
