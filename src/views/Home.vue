@@ -3,95 +3,61 @@
     <div class="header">
       <h1>Caixa de Cartões BNI 50</h1>
       <h2>Aqui você encontra o contato de todos os membros de nosso grupo.</h2>
-    </div>
-    <div class="area">
-      <h3>Atividades de Engenharia & Construção</h3>
+      <h3>Selecione abaixo a área de atuação desejada.</h3>
     </div>
     <v-layout row wrap>
-      <v-flex xs12 md6>
-        <v-card class="card-area" elevation="20">
-          <v-avatar size="150">
-            <img
-              src="https://www.bniconnectglobal.com/web/open/networkViewProfileImage/5fe288d20cf2acd5d34680ba.jpg"
-              alt="André Rodrigues Motta"
-            />
-          </v-avatar>
-          <v-card-title> André Rodrigues Motta </v-card-title>
-          <v-card-subtitle
-            >Rodrigues & Motta: Mapeamento de Obras</v-card-subtitle
-          >
-          <v-card-text
-            >Assinatura Mensal de Plataforma Web, com informações de obras no
-            Grande Rio de Janeiro. As obras são capturadas por inteligência em
-            Big Data, onde posteriormente uma equipe treinada entra em contato
-            com o profissional ou proprietário e coletada dados como estágio da
-            obra, informações de e-mail, redes sociais, além de perguntar sobre
-            o que está precisando orçar naquele momento. Estas informações são
-            inseridas nas respectivas obras, com data de contato dentre outras.
-            Com estas informações, nossos clientes vão atrás das oportunidades,
-            que são atualizadas semanalmente. Nosso objetivo é ligar lojistas,
-            prestadores de serviços e comerciantes de produtos, materiais e
-            serviços para uma residência, diretamente com as oportunidades
-            indicadas na plataforma. A plataforma atende a mais de setenta tipos
-            de produtos, materiais e serviços necessários para uma residência ou
-            escritório.
-          </v-card-text>
-          <v-card-actions>
-            <v-btn text
-              ><a href="https://api.whatsapp.com/send?phone=5521972645788"
-                ><v-icon>mdi-whatsapp</v-icon> (21) 97264-5788</a
-              ></v-btn
-            >
-            <v-btn text
-              ><a href="mailto:‎aluisnr@gmail.com"
-                >‎<v-icon>mdi-email-outline</v-icon> aluisnr@gmail.com</a
-              ></v-btn
-            >
-          </v-card-actions>
-        </v-card>
-      </v-flex>
-      <v-flex xs12 md6>
-        <v-card class="card-area" elevation="20">
-          <v-row class="avatars">
-            <v-avatar size="150">
-              <img
-                src="https://www.bniconnectglobal.com/web/open/networkViewProfileImage/5a95862644f4ad1a5ad4d9c0.jpg"
-                alt="Andréa Fiorini"
-              />
-            </v-avatar>
-            <img
-              src="http://andreafiorini.com.br/wp-content/uploads/2015/01/AF_logo_lg-300x79.png"
-              alt="Logo Andréa Fiorini Arquitetura"
-            />
-          </v-row>
-          <v-card-title> Andréa Fiorini </v-card-title>
-          <v-card-subtitle
-            >Andrea Fiorini Arquitetura: Arquiteto</v-card-subtitle
-          >
-          <v-card-text
-            >Projetos de arquitetura, projetos para condomínios, legalizações da
-            Prefeitura , projetos de interiores
-          </v-card-text>
-          <v-card-actions>
-            <v-btn text
-              ><a href="https://api.whatsapp.com/send?phone=5521999864022"
-                ><v-icon>mdi-whatsapp</v-icon> (21) 99986-4022</a
-              ></v-btn
-            >
-            <v-btn text wrap
-              ><a href="mailto:‎andrea@andreafiorini.com.br"
-                >‎<v-icon>mdi-email-outline</v-icon>
-                andrea@andreafiorini.com.br</a
-              ></v-btn
-            >
-          </v-card-actions>
-          <v-card-actions>
-            <v-btn text
-              ><a href="http://andreafiorini.com.br/?lang=pt-br"
-                >‎<v-icon>mdi-earth</v-icon> andreafiorini.com.br</a
-              ></v-btn
-            >
-          </v-card-actions>
+      <v-flex xs12 md12>
+        <v-card class="card-area" elevation="0">
+          <v-card-actions-group column>
+            <v-btn>
+              <router-link to="/engenharia-e-construcao"
+                >Engenharia & Construção</router-link
+              >
+            </v-btn>
+            <v-btn>
+              <router-link to="/interiores">Interiores</router-link>
+            </v-btn>
+            <v-btn>
+              <router-link to="/financas-e-advogados"
+                >Finanças & Advogados</router-link
+              >
+            </v-btn>
+            <v-btn>
+              <router-link to="/imobiliaria">Imobiliária</router-link>
+            </v-btn>
+            <v-btn>
+              <router-link to="/comunicacao">Comunicação</router-link>
+            </v-btn>
+            <v-btn>
+              <router-link to="/eventos">Eventos</router-link>
+            </v-btn>
+            <v-btn>
+              <router-link to="/servicos-empresariais"
+                >Serviços Empresariais</router-link
+              >
+            </v-btn>
+            <v-btn>
+              <router-link to="/desenvolvimento-humano"
+                >Desenvolvimento Humano</router-link
+              >
+            </v-btn>
+            <v-btn>
+              <router-link to="/servicos-pessoais"
+                >Serviços Pessoais</router-link
+              >
+            </v-btn>
+            <v-btn>
+              <router-link to="/beleza-saude-e-bem-estar"
+                >Beleza, Saúde & Bem Estar</router-link
+              >
+            </v-btn>
+            <v-btn>
+              <router-link to="/tecnologia">Tecnologia</router-link>
+            </v-btn>
+            <v-btn>
+              <router-link to="/lazer">Lazer</router-link>
+            </v-btn>
+          </v-card-actions-group>
         </v-card>
       </v-flex>
     </v-layout>
@@ -117,15 +83,14 @@ a {
   color: #505050;
   text-align: center;
 }
-.area {
-  color: #505050;
-  margin-top: 20px;
-  margin-bottom: 20px;
-}
+
 .card-area {
-  margin: 10px;
+  margin-top: 20px;
+  padding: 15px;
 }
-.avatars {
-  padding: 20px;
+
+.v-btn:not(.v-btn--round).v-size--default {
+  margin: 5px;
+  padding: 5px;
 }
 </style>
