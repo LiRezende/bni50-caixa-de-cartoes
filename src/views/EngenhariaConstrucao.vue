@@ -148,44 +148,42 @@
           <v-row class="avatars">
             <v-avatar size="150">
               <img
-                src="../../assets/images/desenvolvimento_humano/foto_marcelo_penna.jpg"
-                alt="Marcelo Penna"
+                src="../../assets/images/engenharia_construcao/foto_miguel_brandao.jpg"
+                alt="Miguel Brandão"
               />
             </v-avatar>
             <img
-              style="width: 150px; height: 67px"
+              style="width: 200px; height: 54px"
               class="logo"
-              src="../../assets/images/desenvolvimento_humano/logo_instituto_humannum.png"
-              alt="Logo Humannum L. Alta Performance"
+              src="../../assets/images/engenharia_construcao/logo_ferrobran.png"
+              alt="Logo Ferrobran Estruturas Metálicas"
             />
           </v-row>
-          <v-card-title>Marcelo Penna</v-card-title>
+          <v-card-title>Miguel Brandão</v-card-title>
           <v-card-subtitle
-            ><strong>Humannum L. Alta Performance</strong> | Treinamento em
-            PNL</v-card-subtitle
+            ><strong>Ferrobran Estruturas Metálicas</strong> | Estruturas Metálicas</v-card-subtitle
           >
           <v-card-text
-            >Treinamentos e Palestras sobre Comportamentos e Inteligência
-            Emocional com PNL.</v-card-text
+            >Estruturas Metálicas para residências unifamiliares, indústrias automotivas e de alimentos, Comercio, Prédios residenciais e comerciais, Passarelas, Viadutos, Pontes metálicas, Avanço de Varandas para apartamentos e etc... Serviços de Engenharia com direcionamento para Construções em Aço.</v-card-text
           >
           <v-card-actions>
             <v-btn text
-              ><a href="https://api.whatsapp.com/send?phone=5521964363958"
-                ><v-icon>mdi-whatsapp</v-icon> +55 21 96436-3958</a
+              ><a href="https://api.whatsapp.com/send?phone=5521970179725"
+                ><v-icon>mdi-whatsapp</v-icon> +55 21 97017-9725</a
               ></v-btn
             >
           </v-card-actions>
           <v-card-actions>
             <v-btn text
-              ><a href="mailto:m.pennasoares@gmail.com"
-                >‎<v-icon>mdi-email-outline</v-icon> m.pennasoares@gmail.com</a
+              ><a href="mailto:ferrobran@ferrobran.com.br"
+                >‎<v-icon>mdi-email-outline</v-icon> ferrobran@ferrobran.com.br</a
               ></v-btn
             >
           </v-card-actions>
           <v-card-actions>
             <v-btn text
-              ><a href="http://www.humannum.com.br/"
-                >‎<v-icon>mdi-earth</v-icon> humannum.com.br</a
+              ><a href="http://ferrobran.com.br/"
+                >‎<v-icon>mdi-earth</v-icon> ferrobran.com.br</a
               ></v-btn
             >
           </v-card-actions>
@@ -196,44 +194,137 @@
           <v-row class="avatars">
             <v-avatar size="150">
               <img
-                src="../../assets/images/desenvolvimento_humano/foto_marina_vergilli.png"
-                alt="Marina Vergili"
+                src="../../assets/images/engenharia_construcao/foto_patricia.jpg"
+                alt="Patrícia Dinis"
+              />
+            </v-avatar>
+            <img
+              style="width: 200px; height: 100px"
+              class="logo"
+              src="../../assets/images/engenharia_construcao/logo_maracana.jpg"
+              alt="Logo Vidraçaria Maracanã"
+            />
+          </v-row>
+          <v-card-title>Patrícia Dinis</v-card-title>
+          <v-card-subtitle
+            ><strong>Vidraçaria Maracanã</strong> | Vidros, Cortinas e Persianas</v-card-subtitle
+          >
+          <v-card-text
+            >Venda e instalação de vidros temperados, laminados, termo-acústicos e espelhos. Venda e instalação de boxes, portas, janelas, envidraçamentos de varanda, fachadas, guarda- corpos, tampos, clarabóias e divisórias.</v-card-text
+          >
+          <v-card-actions>
+            <v-btn text
+              ><a href="https://api.whatsapp.com/send?phone=5521998993345"
+                ><v-icon>mdi-whatsapp</v-icon> +55 21 99899-3345</a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="mailto:patricia@vidracariamaracana.com.br"
+                >‎<v-icon>mdi-email-outline</v-icon>
+                patricia@vidracariamaracana.com.br</a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="http://www.vidracariamaracana.com.br/"
+                >‎<v-icon>mdi-earth</v-icon> vidracariamaracana.com.br</a
+              ></v-btn
+            >
+          </v-card-actions>
+        </v-card>
+      </v-flex>
+      <v-flex xs12 md6>
+        <v-card class="card-area" elevation="20">
+          <v-row class="avatars">
+            <v-avatar size="150">
+              <img
+                src="../../assets/images/engenharia_construcao/foto_rhaysa_lima.jpg"
+                alt="Rhaysa Alves"
+              />
+            </v-avatar>
+            <img
+              style="width: 200px; height: 170px"
+              class="logo"
+              src="../../assets/images/engenharia_construcao/logo_all_fire.jpg"
+              alt="Logo All Fire Systems Solutions"
+            />
+          </v-row>
+          <v-card-title>Rhaysa Alves</v-card-title>
+          <v-card-subtitle
+            ><strong>All Fire Systems Solutions</strong> | Venda de Equipamentos Contra Incêndio</v-card-subtitle
+          >
+          <v-card-text
+            >Venda de equipamentos contra incêndio.</v-card-text
+          >
+          <v-card-actions>
+            <v-btn text
+              ><a href="https://api.whatsapp.com/send?phone=5521967509191"
+                ><v-icon>mdi-whatsapp</v-icon> +55 21 96750-9191</a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="mailto:rhaysa@allfirebr.com"
+                >‎<v-icon>mdi-email-outline</v-icon>
+                rhaysa@allfirebr.com</a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="allfirebr.com"
+                >‎<v-icon>mdi-earth</v-icon> allfirebr.com</a
+              ></v-btn
+            >
+          </v-card-actions>
+        </v-card>
+      </v-flex>
+      <v-flex xs12 md6>
+        <v-card class="card-area" elevation="20">
+          <v-row class="avatars">
+            <v-avatar size="150">
+              <img
+                src="../../assets/images/engenharia_construcao/foto_roberto_lapagesse.jpg"
+                alt="Roberto Lapagesse"
               />
             </v-avatar>
             <img
               style="width: 200px; height: 74px"
               class="logo"
-              src="../../assets/images/desenvolvimento_humano/logo_vergili.jpg"
-              alt="Logo Vergili Consultoria"
+              src="../../assets/images/engenharia_construcao/logo_lapagesse_engenharia.jpg"
+              alt="Logo Lapagesse Engenharia"
             />
           </v-row>
-          <v-card-title>Marina Vergili</v-card-title>
+          <v-card-title>Roberto Lapagesse</v-card-title>
           <v-card-subtitle
-            ><strong>Vergili Consultoria</strong> | Coaching de Executivos e
-            Negócios</v-card-subtitle
+            ><strong>Lapagesse Engenharia</strong> | Cálculo Estrutural</v-card-subtitle
           >
           <v-card-text
-            >Coaching, Coaching de Executivos e Negócios.</v-card-text
+            >Cálculo Estrutural, Projetos Estruturais e Laudos Técnicos.</v-card-text
           >
           <v-card-actions>
             <v-btn text
-              ><a href="https://api.whatsapp.com/send?phone=5521981419736"
-                ><v-icon>mdi-whatsapp</v-icon> +55 21 98141-9736</a
+              ><a href="https://api.whatsapp.com/send?phone=5521999871429"
+                ><v-icon>mdi-whatsapp</v-icon> +55 21 99987-1429</a
               ></v-btn
             >
           </v-card-actions>
           <v-card-actions>
             <v-btn text
-              ><a href="mailto:marina.a.vergili@gmail.com"
+              ><a href="mailto:roberto@lapagesseengenharia.com.br"
                 >‎<v-icon>mdi-email-outline</v-icon>
-                marina.a.vergili@gmail.com</a
+                roberto@lapagesseengenharia.com.br</a
               ></v-btn
             >
           </v-card-actions>
           <v-card-actions>
             <v-btn text
-              ><a href="http://www.coachthinking.com/"
-                >‎<v-icon>mdi-earth</v-icon> coachthinking.com</a
+              ><a href="http://lapagesseengenharia.com.br/"
+                >‎<v-icon>mdi-earth</v-icon> lapagesseengenharia.com.br</a
               ></v-btn
             >
           </v-card-actions>
@@ -244,50 +335,43 @@
           <v-row class="avatars">
             <v-avatar size="150">
               <img
-                src="../../assets/images/desenvolvimento_humano/foto_roberto_pons.jpg"
-                alt="Roberto Pons"
+                src="../../assets/images/engenharia_construcao/foto_roberto_machado.jpg"
+                alt="Roberto Machado"
               />
             </v-avatar>
             <img
-              style="width: 200px; height: 92px"
+              style="width: 150px; height: 64px"
               class="logo"
-              src="../../assets/images/desenvolvimento_humano/logo_plab.png"
-              alt="Logo P. Lab"
+              src="../../assets/images/engenharia_construcao/logo_rpm_engenharia.png"
+              alt="Logo RPM Engenharia"
             />
           </v-row>
-          <v-card-title>Roberto Pons</v-card-title>
+          <v-card-title>Roberto Machado</v-card-title>
           <v-card-subtitle
-            ><strong>P. Lab</strong> | Cursos e Treinamentos
-            Corporativos</v-card-subtitle
+            ><strong>RPM Engenharia</strong> | Projetos e Combate de Incêndios</v-card-subtitle
           >
           <v-card-text
-            >Iniciando suas atividades em 2003, a Projectlab atua com
-            Transformação Organizacional e Desenvolvimento Profissional, sob 4
-            pilares de conhecimento: Gestão de Projetos, Agilidade, Liderança e
-            Negócios. Desenvolve e oferece programas educacionais abertos
-            presenciais e online nessas 4 áreas. Representa a empresa americana
-            RMC no Brasil de treinamento para certificações
-            profissionais.</v-card-text
+            >Elaboração de Projetos de Segurança Contra Incêndio e Pânico, tramitação junto ao Corpo de Bombeiros Militar do Estado do Rio de Janeiro (CBMERJ), para obtenção do Laudo de Exigências.</v-card-text
           >
           <v-card-actions>
             <v-btn text
-              ><a href="https://api.whatsapp.com/send?phone=5521991568656"
-                ><v-icon>mdi-whatsapp</v-icon> +55 21 99156-8656</a
+              ><a href="https://api.whatsapp.com/send?phone=5521976993561"
+                ><v-icon>mdi-whatsapp</v-icon> +55 21 97699-3561</a
               ></v-btn
             >
           </v-card-actions>
           <v-card-actions>
             <v-btn text
-              ><a href="mailto:roberto.pons@projectlab.com.br"
+              ><a href="mailto:roberto@rpmengenharia.net.br"
                 >‎<v-icon>mdi-email-outline</v-icon>
-                roberto.pons@projectlab.com.br</a
+                roberto@rpmengenharia.net.br</a
               ></v-btn
             >
           </v-card-actions>
           <v-card-actions>
             <v-btn text
-              ><a href="https://p-lab.pro/"
-                >‎<v-icon>mdi-earth</v-icon> p-lab.pro</a
+              ><a href="rpmengenharia.net.br"
+                >‎<v-icon>mdi-earth</v-icon> rpmengenharia.net.br</a
               ></v-btn
             >
           </v-card-actions>
