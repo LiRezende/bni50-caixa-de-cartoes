@@ -28,10 +28,13 @@ export default {
 
 
 <style lang="scss">
-.theme--light.v-footer {
-  background-color:#cf2030;
+.v-btn:not(.v-btn--round).v-size--default {
+  margin: 7px;
 }
 p {
   text-align: justify;
+}
+.theme--light.v-footer {
+  background-color:#cf2030;
 }
 </style>
