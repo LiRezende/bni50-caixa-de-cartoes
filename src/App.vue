@@ -28,11 +28,11 @@ export default {
 
 
 <style lang="scss">
-.v-btn:not(.v-btn--round).v-size--default {
-  margin: 7px;
-}
 p {
   text-align: justify;
+}
+.v-footer {
+  justify-content: center;
 }
 .theme--light.v-footer {
   background-color:#cf2030;

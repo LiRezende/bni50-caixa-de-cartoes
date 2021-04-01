@@ -71,6 +71,9 @@ export default {
 </script>
 
 <style scoped>
+.container {
+  text-align: center;
+}
 .v-card__text {
   text-align: justify;
 }
