@@ -1,14 +1,18 @@
 <template>
   <v-app>
-      <App-Top-Bar/>
+    <App-Top-Bar />
     <v-main>
-      <router-view/>     
+      <router-view />
     </v-main>
+    <v-footer>
+      <App-Footer />
+    </v-footer>
   </v-app>
 </template>
 
 <script>
 import AppTopBar from "./components/AppTopBar";
+import AppFooter from "./components/AppFooter";
 export default {
   name: "App",
   data: () => ({
@@ -17,11 +21,14 @@ export default {
   }),
   components: {
     AppTopBar,
+    AppFooter,
   },
 };
 </script>
 
 
 <style lang="scss">
-
+.theme--light.v-footer {
+  background-color:#cf2030;
+}
 </style>

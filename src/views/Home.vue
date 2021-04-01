@@ -90,7 +90,7 @@ a {
 }
 
 .v-btn:not(.v-btn--round).v-size--default {
-  margin: 5px;
+  margin: 7px;
   padding: 5px;
 }
 </style>
