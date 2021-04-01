@@ -218,7 +218,7 @@ export default {
 }
 .v-card__subtitle {
   text-align: justify;
-  font-size:18px;
+  font-size:16px;
 }
 a {
   text-decoration: none;
@@ -237,12 +237,21 @@ a {
   margin-bottom: 20px;
 }
 .card-area {
-  margin: 10px;
+  margin: 15px 10px 15px 10px;
 }
 .avatars {
   padding: 20px;
 }
 .logo {
   margin: 5px;
+}
+@media screen and (max-width: 768px) {
+  a {
+    font-size:13px;
+    
+  }
+  .card-area {
+    margin: 12px 2px 12px 2px;
+}
 }
 </style>

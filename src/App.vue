@@ -31,7 +31,6 @@ export default {
 .theme--light.v-footer {
   background-color:#cf2030;
 }
-
 p {
   text-align: justify;
 }
