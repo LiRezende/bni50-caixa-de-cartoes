@@ -113,14 +113,19 @@ export default {
 </script>
 
 <style scoped>
+.v-card__text {
+  text-align: justify;
+}
+.v-card__subtitle {
+  text-align: justify;
+  font-size:18px;
+}
 a {
   text-decoration: none;
 }
-
 .v-application a {
   color: #333;
 }
-
 .header {
   color: #505050;
   text-align: center;

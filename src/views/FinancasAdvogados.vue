@@ -44,9 +44,9 @@
           </v-card-actions>
           <v-card-actions>
             <v-btn text
-              ><a href="mailto:alexmottacardoso@hotmail.com"
+              ><a href="mailto:contato@cardosocindraadvocacia.com.br"
                 >‎<v-icon>mdi-email-outline</v-icon>
-                ‎alexmottacardoso@hotmail.com</a
+                ‎contato@cardosocindraadvocacia.com.br</a
               ></v-btn
             >
           </v-card-actions>
@@ -312,14 +312,19 @@ export default {
 </script>
 
 <style scoped>
+.v-card__text {
+  text-align: justify;
+}
+.v-card__subtitle {
+  text-align: justify;
+  font-size:16px;
+}
 a {
   text-decoration: none;
 }
-
 .v-application a {
   color: #333;
 }
-
 .header {
   color: #505050;
   text-align: center;
@@ -331,12 +336,21 @@ a {
   margin-bottom: 20px;
 }
 .card-area {
-  margin: 10px;
+  margin: 15px 10px 15px 10px;
 }
 .avatars {
   padding: 20px;
 }
 .logo {
   margin: 5px;
+}
+@media screen and (max-width: 768px) {
+  a {
+    font-size:13px;
+    
+  }
+  .card-area {
+    margin: 12px 2px 12px 2px;
+}
 }
 </style>

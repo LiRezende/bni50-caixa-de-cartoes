@@ -71,26 +71,45 @@ export default {
 </script>
 
 <style scoped>
+.v-card__text {
+  text-align: justify;
+}
+.v-card__subtitle {
+  text-align: justify;
+  font-size:16px;
+}
 a {
   text-decoration: none;
 }
-
 .v-application a {
   color: #333;
 }
-
 .header {
   color: #505050;
   text-align: center;
+  margin-bottom: 30px;
 }
-
-.card-area {
+.area {
+  color: #505050;
   margin-top: 20px;
-  padding: 15px;
+  margin-bottom: 20px;
 }
-
-.v-btn:not(.v-btn--round).v-size--default {
-  margin: 7px;
-  padding: 5px;
+.card-area {
+  margin: 15px 10px 15px 10px;
+}
+.avatars {
+  padding: 20px;
+}
+.logo {
+  margin: 5px;
+}
+@media screen and (max-width: 768px) {
+  a {
+    font-size:13px;
+    
+  }
+  .card-area {
+    margin: 12px 2px 12px 2px;
+}
 }
 </style>

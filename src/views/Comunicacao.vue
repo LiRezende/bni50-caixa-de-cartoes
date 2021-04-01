@@ -219,6 +219,13 @@ export default {
 </script>
 
 <style scoped>
+.v-card__text {
+  text-align: justify;
+}
+.v-card__subtitle {
+  text-align: justify;
+  font-size:18px;
+}
 a {
   text-decoration: none;
 }
