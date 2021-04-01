@@ -78,6 +78,9 @@ export default {
   text-align: justify;
   font-size:16px;
 }
+.v-btn:not(.v-btn--round).v-size--default {
+  margin: 7px;
+}
 a {
   text-decoration: none;
 }
