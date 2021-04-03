@@ -251,60 +251,6 @@
           </v-card-actions>
         </v-card>
       </v-flex>
-      <v-flex xs12 md6>
-        <v-card class="card-area" elevation="20">
-          <v-row class="avatars">
-            <v-avatar size="150">
-              <img
-                src="../../assets/images/desenvolvimento_humano/foto_roberto_pons.jpg"
-                alt="Roberto Pons"
-              />
-            </v-avatar>
-            <img
-              style="width: 200px; height: 92px"
-              class="logo"
-              src="../../assets/images/desenvolvimento_humano/logo_plab.png"
-              alt="Logo P. Lab"
-            />
-          </v-row>
-          <v-card-title>Roberto Pons</v-card-title>
-          <v-card-subtitle
-            ><strong>P. Lab</strong> | Cursos e Treinamentos
-            Corporativos</v-card-subtitle
-          >
-          <v-card-text
-            >Iniciando suas atividades em 2003, a Projectlab atua com
-            Transformação Organizacional e Desenvolvimento Profissional, sob 4
-            pilares de conhecimento: Gestão de Projetos, Agilidade, Liderança e
-            Negócios. Desenvolve e oferece programas educacionais abertos
-            presenciais e online nessas 4 áreas. Representa a empresa americana
-            RMC no Brasil de treinamento para certificações
-            profissionais.</v-card-text
-          >
-          <v-card-actions>
-            <v-btn text
-              ><a href="https://api.whatsapp.com/send?phone=5521991568656"
-                ><v-icon>mdi-whatsapp</v-icon> +55 21 99156-8656</a
-              ></v-btn
-            >
-          </v-card-actions>
-          <v-card-actions>
-            <v-btn text
-              ><a href="mailto:roberto.pons@projectlab.com.br"
-                >‎<v-icon>mdi-email-outline</v-icon>
-                roberto.pons@projectlab.com.br</a
-              ></v-btn
-            >
-          </v-card-actions>
-          <v-card-actions>
-            <v-btn text
-              ><a href="https://p-lab.pro/"
-                >‎<v-icon>mdi-earth</v-icon> p-lab.pro</a
-              ></v-btn
-            >
-          </v-card-actions>
-        </v-card>
-      </v-flex>
     </v-layout>
   </v-container>
 </template>
