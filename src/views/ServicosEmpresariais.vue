@@ -308,7 +308,7 @@
               />
             </v-avatar>
             <img
-              style="width: 240px; height: 74px"
+              style="width: 250px; height: 133px"
               class="logo"
               src="../../assets/images/servicos_empresariais/logo-red-safety.png"
               alt="Logo Red Safety Segurança Contra Incêndio"

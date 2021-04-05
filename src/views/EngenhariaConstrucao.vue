@@ -104,6 +104,53 @@
           <v-row class="avatars">
             <v-avatar size="150">
               <img
+                src="../../assets/images/engenharia_construcao/foto_barbara_loureiro.jpeg"
+                alt="Barbara Loureiro"
+              />
+            </v-avatar>
+            <img
+              style="width: 200px; height: 42px"
+              class="logo"
+              src="../../assets/images/engenharia_construcao/logo_mn_construcoes_e_reformas.jpg"
+              alt="Logo MN Construções e Reformas"
+            />
+          </v-row>
+          <v-card-title>Barbara Loureiro</v-card-title>
+          <v-card-subtitle
+            ><strong>MN Construções e Reformas</strong> | Perícias e Assistência Técnica em Suporte a Litígios</v-card-subtitle
+          >
+          <v-card-text
+            >Perícias, projetos e obras. Arquitetura predial e engenharia legal.
+          </v-card-text>
+          <v-card-actions>
+            <v-btn text
+              ><a href="https://api.whatsapp.com/send?phone=5521987005140"
+                ><v-icon>mdi-whatsapp</v-icon> +55 21 98700-5140</a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="mailto:mncarquitetura@gmail.com"
+                >‎<v-icon>mdi-email-outline</v-icon>
+                mncarquitetura@gmail.com</a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="http://www.mnarq.com.br/"
+                >‎<v-icon>mdi-earth</v-icon> mnarq.com.br</a
+              ></v-btn
+            >
+          </v-card-actions>
+        </v-card>
+      </v-flex>
+      <v-flex xs12 md6>
+        <v-card class="card-area" elevation="20">
+          <v-row class="avatars">
+            <v-avatar size="150">
+              <img
                 src="../../assets/images/engenharia_construcao/foto-bruno-linhares.jpg"
                 alt="Bruno Linhares"
               />
