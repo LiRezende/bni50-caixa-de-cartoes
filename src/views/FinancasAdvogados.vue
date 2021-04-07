@@ -64,6 +64,55 @@
           <v-row class="avatars">
             <v-avatar size="150">
               <img
+                src="../../assets/images/financas_advogados/foto-ariadne_1x1.jpg"
+                alt="Ariadne Maranhão"
+              />
+            </v-avatar>
+            <img
+              style="width: 200px; height: 53px"
+              class="logo"
+              src="../../assets/images/financas_advogados/logo_ariadne_maranhao.png"
+              alt="Logo Ariadne Maranhão Advogados Associados"
+            />
+          </v-row>
+          <v-card-title>Ariadne Maranhão</v-card-title>
+          <v-card-subtitle
+            ><strong>Ariadne Maranhão Advogados Associados</strong> | Advogado
+            de Família</v-card-subtitle
+          >
+          <v-card-text
+            >Advogada especializada em Direito Homoafetivo, Direito das Famílias
+            e Sucessões.
+          </v-card-text>
+          <v-card-actions>
+            <v-btn text
+              ><a href="https://api.whatsapp.com/send?phone=5521999950882"
+                ><v-icon>mdi-whatsapp</v-icon> +55 21 99995-0882</a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="mailto:ariadne@ariadnemaranhao.adv.br"
+                >‎<v-icon>mdi-email-outline</v-icon>
+                ariadne@ariadnemaranhao.adv.br</a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="https://ariadnemaranhao.adv.br/"
+                >‎<v-icon>mdi-earth</v-icon> ariadnemaranhao.adv.br</a
+              ></v-btn
+            >
+          </v-card-actions>
+        </v-card>
+      </v-flex>
+      <v-flex xs12 md6>
+        <v-card class="card-area" elevation="20">
+          <v-row class="avatars">
+            <v-avatar size="150">
+              <img
                 src="../../assets/images/financas_advogados/foto_diego_saul.jpg"
                 alt="Diego Saul"
               />
@@ -199,6 +248,52 @@
             <v-btn text
               ><a href="https://allinvestimentos.com.br/"
                 >‎<v-icon>mdi-earth</v-icon> allinvestimentos.com.br</a
+              ></v-btn
+            >
+          </v-card-actions>
+        </v-card>
+      </v-flex>
+      <v-flex xs12 md6>
+        <v-card class="card-area" elevation="20">
+          <v-row class="avatars">
+            <v-avatar size="150">
+              <img
+                src="../../assets/images/financas_advogados/foto_george_almeida.jpg"
+                alt="George Almeida"
+              />
+            </v-avatar>
+            <img
+              style="width: 93px; height: 100px"
+              class="logo"
+              src="../../assets/images/financas_advogados/logo_duarte_almeida_advogados.png"
+              alt="Logo Almeida Duarte Advocacia"
+            />
+          </v-row>
+          <v-card-title>George Almeida</v-card-title>
+          <v-card-subtitle
+            ><strong>Almeida Duarte Advocacia</strong> | Advogado
+            Trabalhista</v-card-subtitle
+          >
+          <v-card-text>Jurídico, Advogado - Trabalhista. </v-card-text>
+          <v-card-actions>
+            <v-btn text
+              ><a href="https://api.whatsapp.com/send?phone=5521988111487"
+                ><v-icon>mdi-whatsapp</v-icon> +55 21 98811-1487</a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="mailto:georgealmeidaduarte@gmail.com"
+                >‎<v-icon>mdi-email-outline</v-icon>
+                georgealmeidaduarte@gmail.com</a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="https://www.linkedin.com/in/george-almeida-26b74ab6/"
+                >‎<v-icon>mdi-earth</v-icon> linkedin.com/in/george-almeida</a
               ></v-btn
             >
           </v-card-actions>

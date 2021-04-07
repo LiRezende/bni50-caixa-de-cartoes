@@ -59,55 +59,6 @@
           <v-row class="avatars">
             <v-avatar size="150">
               <img
-                src="../../assets/images/servicos_pessoais/foto-ariadne_1x1.jpg"
-                alt="Ariadne Maranhão"
-              />
-            </v-avatar>
-            <img
-              style="width: 200px; height: 53px"
-              class="logo"
-              src="../../assets/images/servicos_pessoais/logo_ariadne_maranhao.png"
-              alt="Logo Ariadne Maranhão Advogados Associados"
-            />
-          </v-row>
-          <v-card-title>Ariadne Maranhão</v-card-title>
-          <v-card-subtitle
-            ><strong>Ariadne Maranhão Advogados Associados</strong> | Advogado
-            de Família</v-card-subtitle
-          >
-          <v-card-text
-            >Advogada especializada em Direito Homoafetivo, Direito das Famílias
-            e Sucessões.
-          </v-card-text>
-          <v-card-actions>
-            <v-btn text
-              ><a href="https://api.whatsapp.com/send?phone=5521999950882"
-                ><v-icon>mdi-whatsapp</v-icon> +55 21 99995-0882</a
-              ></v-btn
-            >
-          </v-card-actions>
-          <v-card-actions>
-            <v-btn text
-              ><a href="mailto:ariadne@ariadnemaranhao.adv.br"
-                >‎<v-icon>mdi-email-outline</v-icon>
-                ariadne@ariadnemaranhao.adv.br</a
-              ></v-btn
-            >
-          </v-card-actions>
-          <v-card-actions>
-            <v-btn text
-              ><a href="https://ariadnemaranhao.adv.br/"
-                >‎<v-icon>mdi-earth</v-icon> ariadnemaranhao.adv.br</a
-              ></v-btn
-            >
-          </v-card-actions>
-        </v-card>
-      </v-flex>
-      <v-flex xs12 md6>
-        <v-card class="card-area" elevation="20">
-          <v-row class="avatars">
-            <v-avatar size="150">
-              <img
                 src="../../assets/images/servicos_pessoais/foto_cynthia_selly.jpg"
                 alt="Cynthia Selly"
               />
@@ -151,52 +102,6 @@
             <v-btn text
               ><a href="https://www.wesure.com.br/"
                 >‎<v-icon>mdi-earth</v-icon> wesure.com.br</a
-              ></v-btn
-            >
-          </v-card-actions>
-        </v-card>
-      </v-flex>
-      <v-flex xs12 md6>
-        <v-card class="card-area" elevation="20">
-          <v-row class="avatars">
-            <v-avatar size="150">
-              <img
-                src="../../assets/images/servicos_pessoais/foto_marcos_moura.jpg"
-                alt="Marcos Moura"
-              />
-            </v-avatar>
-            <img
-              style="width: 200px; height: 164px"
-              class="logo"
-              src="../../assets/images/servicos_pessoais/logo_marcos_moura.png"
-              alt="Logo Marvin Mudanças"
-            />
-          </v-row>
-          <v-card-title>Marcos Moura</v-card-title>
-          <v-card-subtitle
-            ><strong>Marvin Mudanças</strong> | Empresa de
-            Mudança</v-card-subtitle
-          >
-          <v-card-text>Mudanças e armazenamento.</v-card-text>
-          <v-card-actions>
-            <v-btn text
-              ><a href="https://api.whatsapp.com/send?phone=5521984933786"
-                ><v-icon>mdi-whatsapp</v-icon> +55 21 98493-3786</a
-              ></v-btn
-            >
-          </v-card-actions>
-          <v-card-actions>
-            <v-btn text
-              ><a href="mailto:contato@marvinmudancas.com.br"
-                >‎<v-icon>mdi-email-outline</v-icon>
-                contato@marvinmudancas.com.br</a
-              ></v-btn
-            >
-          </v-card-actions>
-          <v-card-actions>
-            <v-btn text
-              ><a href="http://www.marvinmudancas.com.br/"
-                >‎<v-icon>mdi-earth</v-icon> marvinmudancas.com.br</a
               ></v-btn
             >
           </v-card-actions>
