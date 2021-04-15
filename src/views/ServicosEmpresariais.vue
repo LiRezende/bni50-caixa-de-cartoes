@@ -10,57 +10,6 @@
           <v-row class="avatars">
             <v-avatar size="150">
               <img
-                src="../../assets/images/servicos_empresariais/foto_claudio_maravilha.jpg"
-                alt="Cláudio Maravilha"
-              />
-            </v-avatar>
-            <img
-              style="width: 200px; height: 110px"
-              class="logo"
-              src="../../assets/images/servicos_empresariais/logo_logoart.png"
-              alt="Logo Logoart Comunicação Visual"
-            />
-          </v-row>
-          <v-card-title>Cláudio Maravilha</v-card-title>
-          <v-card-subtitle
-            ><strong>Logoart Comunicação Visual</strong> | Comunicação
-            Visual</v-card-subtitle
-          >
-          <v-card-text
-            >Atuamos com produção de letreiros e fachadas em ACM, letras caixas
-            em acrílico e chapa galvanizada, placas e sinalização, impressão
-            digital, lonas e adesivos, envelopamento de veículos e serviços
-            gráficos.
-          </v-card-text>
-          <v-card-actions>
-            <v-btn text
-              ><a href="https://api.whatsapp.com/send?phone=5521998084718"
-                ><v-icon>mdi-whatsapp</v-icon> +55 21 99808-4718</a
-              ></v-btn
-            >
-          </v-card-actions>
-          <v-card-actions>
-            <v-btn text
-              ><a href="mailto:comercial.logoart@gmail.com"
-                >‎<v-icon>mdi-email-outline</v-icon>
-                ‎comercial.logoart@gmail.com</a
-              ></v-btn
-            >
-          </v-card-actions>
-          <v-card-actions>
-            <v-btn text
-              ><a href="https://logoart-letreiros.business.site/"
-                >‎<v-icon>mdi-earth</v-icon> logoart-letreiros.business.site</a
-              ></v-btn
-            >
-          </v-card-actions>
-        </v-card>
-      </v-flex>
-      <v-flex xs12 md6>
-        <v-card class="card-area" elevation="20">
-          <v-row class="avatars">
-            <v-avatar size="150">
-              <img
                 src="../../assets/images/servicos_empresariais/foto-joao-junior.jpeg"
                 alt="João Júnior"
               />
@@ -318,7 +267,7 @@ export default {
 }
 .v-card__subtitle {
   text-align: justify;
-  font-size:16px;
+  font-size: 16px;
 }
 a {
   text-decoration: none;
@@ -347,11 +296,10 @@ a {
 }
 @media screen and (max-width: 768px) {
   a {
-    font-size:13px;
-    
+    font-size: 13px;
   }
   .card-area {
     margin: 12px 2px 12px 2px;
-}
+  }
 }
 </style>
