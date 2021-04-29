@@ -212,52 +212,6 @@
           <v-row class="avatars">
             <v-avatar size="150">
               <img
-                src="../../assets/images/financas_advogados/foto_erica_retore.jpg"
-                alt="Erica Retore"
-              />
-            </v-avatar>
-            <img
-              style="width: 300px; height: 46px"
-              class="logo"
-              src="../../assets/images/financas_advogados/logo_all_investimentos.png"
-              alt="Logo All Investimentos Agente Autônomo de Investimentos"
-            />
-          </v-row>
-          <v-card-title>Erica Retore</v-card-title>
-          <v-card-subtitle
-            ><strong>All Investimentos Agente Autônomo de Investimentos</strong>
-            | Consultoria em Investimentos</v-card-subtitle
-          >
-          <v-card-text>Assessoria de Investimentos.</v-card-text>
-          <v-card-actions>
-            <v-btn text
-              ><a href="https://api.whatsapp.com/send?phone=5521972888983"
-                ><v-icon>mdi-whatsapp</v-icon> +55 21 97288-8983</a
-              ></v-btn
-            >
-          </v-card-actions>
-          <v-card-actions>
-            <v-btn text
-              ><a href="mailto:erica.retore@allinvestimentos.com.br"
-                >‎<v-icon>mdi-email-outline</v-icon>
-                erica.retore@allinvestimentos.com.br</a
-              ></v-btn
-            >
-          </v-card-actions>
-          <v-card-actions>
-            <v-btn text
-              ><a href="https://allinvestimentos.com.br/"
-                >‎<v-icon>mdi-earth</v-icon> allinvestimentos.com.br</a
-              ></v-btn
-            >
-          </v-card-actions>
-        </v-card>
-      </v-flex>
-      <v-flex xs12 md6>
-        <v-card class="card-area" elevation="20">
-          <v-row class="avatars">
-            <v-avatar size="150">
-              <img
                 src="../../assets/images/financas_advogados/foto_george_almeida.jpg"
                 alt="George Almeida"
               />
