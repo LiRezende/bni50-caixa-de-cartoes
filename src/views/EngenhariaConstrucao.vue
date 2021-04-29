@@ -288,53 +288,6 @@
           <v-row class="avatars">
             <v-avatar size="150">
               <img
-                src="../../assets/images/engenharia_construcao/foto_rhaysa_lima.jpg"
-                alt="Rhaysa Alves"
-              />
-            </v-avatar>
-            <img
-              style="width: 200px; height: 170px"
-              class="logo"
-              src="../../assets/images/engenharia_construcao/logo_all_fire.jpg"
-              alt="Logo All Fire Systems Solutions"
-            />
-          </v-row>
-          <v-card-title>Rhaysa Alves</v-card-title>
-          <v-card-subtitle
-            ><strong>All Fire Systems Solutions</strong> | Venda de Equipamentos Contra Incêndio</v-card-subtitle
-          >
-          <v-card-text
-            >Venda de equipamentos contra incêndio.</v-card-text
-          >
-          <v-card-actions>
-            <v-btn text
-              ><a href="https://api.whatsapp.com/send?phone=5521967509191"
-                ><v-icon>mdi-whatsapp</v-icon> +55 21 96750-9191</a
-              ></v-btn
-            >
-          </v-card-actions>
-          <v-card-actions>
-            <v-btn text
-              ><a href="mailto:rhaysa@allfirebr.com"
-                >‎<v-icon>mdi-email-outline</v-icon>
-                rhaysa@allfirebr.com</a
-              ></v-btn
-            >
-          </v-card-actions>
-          <v-card-actions>
-            <v-btn text
-              ><a href="allfirebr.com"
-                >‎<v-icon>mdi-earth</v-icon> allfirebr.com</a
-              ></v-btn
-            >
-          </v-card-actions>
-        </v-card>
-      </v-flex>
-      <v-flex xs12 md6>
-        <v-card class="card-area" elevation="20">
-          <v-row class="avatars">
-            <v-avatar size="150">
-              <img
                 src="../../assets/images/engenharia_construcao/foto_roberto_lapagesse.jpg"
                 alt="Roberto Lapagesse"
               />
