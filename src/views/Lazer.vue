@@ -10,54 +10,8 @@
           <v-row class="avatars">
             <v-avatar size="150">
               <img
-                src="../../assets/images/lazer/foto-bruno-simoes.jpg"
-                alt="Bruno Simões"
-              />
-            </v-avatar>
-            <img
-              style="width: 200px; height: 119px"
-              class="logo"
-              src="../../assets/images/lazer/o_camarao_logo.png"
-              alt="Logo O Camarão"
-            />
-          </v-row>
-          <v-card-title>Bruno Simões</v-card-title>
-          <v-card-subtitle
-            ><strong>O Camarão</strong> | Restaurante</v-card-subtitle
-          >
-          <v-card-text
-            >Restaurante especializado em frutos do mar com foco em camarão.
-          </v-card-text>
-          <v-card-actions>
-            <v-btn text
-              ><a href="https://api.whatsapp.com/send?phone=5521980323111"
-                ><v-icon>mdi-whatsapp</v-icon> +55 21 98032-3111</a
-              ></v-btn
-            >
-          </v-card-actions>
-          <v-card-actions>
-            <v-btn text
-              ><a href="mailto:‎bruno_simoesrj@yahoo.com.br"
-                >‎<v-icon>mdi-email-outline</v-icon> bruno_simoesrj@yahoo.com.br</a
-              ></v-btn
-            >
-          </v-card-actions>
-          <v-card-actions>
-            <v-btn text
-              ><a href="https://ocamarao.com/"
-                >‎<v-icon>mdi-earth</v-icon> ocamarao.com</a
-              ></v-btn
-            >
-          </v-card-actions>
-        </v-card>
-      </v-flex>
-      <v-flex xs12 md6>
-        <v-card class="card-area" elevation="20">
-          <v-row class="avatars">
-            <v-avatar size="150">
-              <img
                 src="../../assets/images/lazer/foto_eduardo_penna.jpg"
-                alt="Ligia Brusamolin"
+                alt="Eduardo Penna"
               />
             </v-avatar>
             <img
