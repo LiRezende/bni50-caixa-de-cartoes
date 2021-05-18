@@ -101,6 +101,55 @@
           <v-row class="avatars">
             <v-avatar size="150">
               <img
+                src="../../assets/images/servicos_empresariais/foto_jose_roberto_mansur.jpg"
+                alt="José Roberto Mansur"
+              />
+            </v-avatar>
+            <img
+              style="width: 300px; height: 60px"
+              class="logo"
+              src="../../assets/images/servicos_empresariais/logo_recall_ledger.png"
+              alt="Logo Recall Ledger Consultoria e Desenvolvimento de Empresas"
+            />
+          </v-row>
+          <v-card-title>José Roberto Mansur</v-card-title>
+          <v-card-subtitle
+            ><strong>Recall Ledger Consultoria e Desenvolvimento de Empresas</strong> | Contabilidade</v-card-subtitle
+          >
+          <v-card-text>Escritório de contabilidade. Preparamos balancetes mensais com análise de contas, 
+            cálculo de impostos, folhas de pagamentos e encargos sociais além de toda a rotina  de 
+            Departamento de Pessoal através de nossa equipe altamente qualificada de mais de 50 colaboradores. 
+            Utilizamos sistemas em nuvem totalmente integrados cliente-escritorio.  Atendemos os mais variados 
+            segmentos de negócio, empresas de pequeno,  médio e grande portes.</v-card-text>
+          <v-card-actions>
+            <v-btn text
+              ><a href="https://api.whatsapp.com/send?phone=5521999640392"
+                ><v-icon>mdi-whatsapp</v-icon> +55 21 99964-0392</a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="mailto:r.mansur@recall-ledger.com.br"
+                >‎<v-icon>mdi-email-outline</v-icon>
+                r.mansur@recall-ledger.com.br</a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="http://www.recall-ledger.com.br/"
+                >‎<v-icon>mdi-earth</v-icon> recall-ledger.com.br</a
+              ></v-btn
+            >
+          </v-card-actions>
+        </v-card>
+      </v-flex>
+      <v-flex xs12 md6>
+        <v-card class="card-area" elevation="20">
+          <v-row class="avatars">
+            <v-avatar size="150">
+              <img
                 src="../../assets/images/servicos_empresariais/foto-marcio-calasans.jpg"
                 alt="Marcio Calasans"
               />
