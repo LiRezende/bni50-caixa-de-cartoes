@@ -101,7 +101,7 @@
           <v-row class="avatars">
             <v-avatar size="150">
               <img
-                src="../../assets/images/servicos_empresariais/foto_jose_roberto_mansur.jpg"
+                src="../../assets/images/servicos_empresariais/foto_jose_roberto_mansur.jpeg"
                 alt="José Roberto Mansur"
               />
             </v-avatar>
