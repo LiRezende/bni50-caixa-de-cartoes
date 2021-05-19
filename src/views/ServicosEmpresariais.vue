@@ -106,7 +106,7 @@
               />
             </v-avatar>
             <img
-              style="width: 300px; height: 60px"
+              style="width: 200px; height: 200px"
               class="logo"
               src="../../assets/images/servicos_empresariais/logo_recall_ledger.png"
               alt="Logo Recall Ledger Consultoria e Desenvolvimento de Empresas"
