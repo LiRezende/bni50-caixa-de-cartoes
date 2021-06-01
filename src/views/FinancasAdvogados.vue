@@ -219,7 +219,7 @@
             <img
               style="width: 200px;"
               class="logo"
-              src="../../assets/images/financas_advogados/logo_di_ciero_advogados.jpeg"
+              src="../../assets/images/financas_advogados/logo_di_ciero_advogados.jpg"
               alt="Logo Di Ciero Advogados"
             />
           </v-row>
