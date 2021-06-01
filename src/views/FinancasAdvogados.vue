@@ -217,7 +217,7 @@
               />
             </v-avatar>
             <img
-              style="width: 200px; height: 185px"
+              style="width: 200px;"
               class="logo"
               src="../../assets/images/financas_advogados/logo_di_ciero_advogados.jpeg"
               alt="Logo Di Ciero Advogados"
