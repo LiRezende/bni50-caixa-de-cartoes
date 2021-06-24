@@ -18,12 +18,12 @@
               style="width: 200px; height: 107px"
               class="logo"
               src="../../assets/images/financas_advogados/logo_cardoso_advocacia.jpg"
-              alt="Logo Cardoso Cintra Advocacia"
+              alt="Logo Cardoso Cindra Advocacia"
             />
           </v-row>
           <v-card-title>Alex Motta Cardoso</v-card-title>
           <v-card-subtitle
-            ><strong>Cardoso Cintra Advocacia</strong> | Direito do
+            ><strong>Cardoso Cindra Advocacia</strong> | Direito do
             Consumidor</v-card-subtitle
           >
           <v-card-text
