@@ -85,8 +85,8 @@
           </v-card-text>
           <v-card-actions>
             <v-btn text
-              ><a href="https://api.whatsapp.com/send?phone=5521993857244"
-                ><v-icon>mdi-whatsapp</v-icon> +55 21 99385-7244</a
+              ><a href="https://api.whatsapp.com/send?phone=551130420438"
+                ><v-icon>mdi-whatsapp</v-icon> +55 11 3042-0438</a
               ></v-btn
             >
           </v-card-actions>
