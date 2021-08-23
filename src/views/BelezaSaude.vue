@@ -10,6 +10,52 @@
           <v-row class="avatars">
             <v-avatar size="150">
               <img
+                src="../../assets/images/beleza_saude/foto-alexandre-ollivier.jpg"
+                alt="Alexandre Ollivier"
+              />
+            </v-avatar>
+            <img
+              style="width: 200px; height: 69px"
+              class="logo"
+              src="../../assets/images/beleza_saude/logo-alexandre-ollivier.jpg"
+              alt="Logo Alexandre Ollivier"
+            />
+          </v-row>
+          <v-card-title>Alexandre Ollivier</v-card-title>
+          <v-card-subtitle
+            ><strong>Alexandre Ollivier</strong> | Bem-estar Alternativo</v-card-subtitle
+          >
+          <v-card-text
+            >Terapial transpessoal.
+          </v-card-text>
+          <v-card-actions>
+            <v-btn text
+              ><a href="https://api.whatsapp.com/send?phone=5521987775565"
+                ><v-icon>mdi-whatsapp</v-icon> +55 21 98777-5565</a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="mailto:‎‎alexandre.ollivier62@gmail.com"
+                >‎<v-icon>mdi-email-outline</v-icon> ‎alexandre.ollivier62@gmail.com</a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="https://andrehazan.com/"
+                >‎<v-icon>mdi-earth</v-icon> andrehazan.com</a
+              ></v-btn
+            >
+          </v-card-actions>
+        </v-card>
+      </v-flex>
+      <v-flex xs12 md6>
+        <v-card class="card-area" elevation="20">
+          <v-row class="avatars">
+            <v-avatar size="150">
+              <img
                 src="../../assets/images/beleza_saude/foto-andre-hazan_crop.jpg"
                 alt="André Hazan"
               />
