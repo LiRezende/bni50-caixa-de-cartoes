@@ -195,52 +195,6 @@
           <v-row class="avatars">
             <v-avatar size="150">
               <img
-                src="../../assets/images/engenharia_construcao/foto_miguel_brandao.jpg"
-                alt="Miguel Brandão"
-              />
-            </v-avatar>
-            <img
-              style="width: 200px; height: 54px"
-              class="logo"
-              src="../../assets/images/engenharia_construcao/logo_ferrobran.png"
-              alt="Logo Ferrobran Estruturas Metálicas"
-            />
-          </v-row>
-          <v-card-title>Miguel Brandão</v-card-title>
-          <v-card-subtitle
-            ><strong>Ferrobran Estruturas Metálicas</strong> | Estruturas Metálicas</v-card-subtitle
-          >
-          <v-card-text
-            >Estruturas Metálicas para residências unifamiliares, indústrias automotivas e de alimentos, Comercio, Prédios residenciais e comerciais, Passarelas, Viadutos, Pontes metálicas, Avanço de Varandas para apartamentos e etc... Serviços de Engenharia com direcionamento para Construções em Aço.</v-card-text
-          >
-          <v-card-actions>
-            <v-btn text
-              ><a href="https://api.whatsapp.com/send?phone=5521970179725"
-                ><v-icon>mdi-whatsapp</v-icon> +55 21 97017-9725</a
-              ></v-btn
-            >
-          </v-card-actions>
-          <v-card-actions>
-            <v-btn text
-              ><a href="mailto:ferrobran@ferrobran.com.br"
-                >‎<v-icon>mdi-email-outline</v-icon> ferrobran@ferrobran.com.br</a
-              ></v-btn
-            >
-          </v-card-actions>
-          <v-card-actions>
-            <v-btn text
-              ><a href="http://ferrobran.com.br/"
-                >‎<v-icon>mdi-earth</v-icon> ferrobran.com.br</a
-              ></v-btn
-            >
-          </v-card-actions>
-        </v-card>
-      </v-flex>
-      <v-flex xs12 md6>
-        <v-card class="card-area" elevation="20">
-          <v-row class="avatars">
-            <v-avatar size="150">
-              <img
                 src="../../assets/images/engenharia_construcao/foto_patricia.jpg"
                 alt="Patrícia Dinis"
               />
