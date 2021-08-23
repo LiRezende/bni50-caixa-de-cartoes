@@ -292,7 +292,7 @@
           <v-card-actions>
             <v-btn text
               ><a href="http://www.patriciacaceres.com.br/"
-                >‎<v-icon>mdi-earth</v-icon> patriciacaceres.com.br/</a
+                >‎<v-icon>mdi-earth</v-icon> patriciacaceres.com.br</a
               ></v-btn
             >
           </v-card-actions>
