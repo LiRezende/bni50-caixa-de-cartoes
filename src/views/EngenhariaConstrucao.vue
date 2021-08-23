@@ -57,7 +57,7 @@
           <v-row class="avatars">
             <v-avatar size="150">
               <img
-                src="../../assets/images/engenharia_construcao/foto-andrea-fiorini.jpg"
+                src="../../assets/images/engenharia_construcao/foto-andrea-fiorini.jpeg"
                 alt="Andrea Fiorini"
               />
             </v-avatar>
