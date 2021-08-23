@@ -15,7 +15,7 @@
               />
             </v-avatar>
             <img
-              style="width: 200px; height: 69px"
+              style="width: 312px; height: 183px"
               class="logo"
               src="../../assets/images/beleza_saude/logo-alexandre-ollivier.jpg"
               alt="Logo Alexandre Ollivier"
