@@ -151,6 +151,53 @@
           <v-row class="avatars">
             <v-avatar size="150">
               <img
+                src="../../assets/images/engenharia_construcao/foto-bruno-didier.jpg"
+                alt="Bruno Didier"
+              />
+            </v-avatar>
+            <img
+              style="width: 252px; height: 183px"
+              class="logo"
+              src="../../assets/images/engenharia_construcao/logo-porti-engenharia.jpg"
+              alt="Logo Porti Engenharia"
+            />
+          </v-row>
+          <v-card-title>Bruno Didier</v-card-title>
+          <v-card-subtitle
+            ><strong>Porti Engenharia</strong> | Assistência Técnica na Área de Engenharia</v-card-subtitle
+          >
+          <v-card-text
+            >Especializada em manutenção predial com foco voltado para reforma e manutenção de fachadas.
+          </v-card-text>
+          <v-card-actions>
+            <v-btn text
+              ><a href="https://api.whatsapp.com/send?phone=5521985972234"
+                ><v-icon>mdi-whatsapp</v-icon> +55 21 98597-2234</a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="mailto:didier@portiengenharia.com.br"
+                >‎<v-icon>mdi-email-outline</v-icon>
+                didier@portiengenharia.com.br</a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="https://portiengenharia.com.br/"
+                >‎<v-icon>mdi-earth</v-icon> portiengenharia.com.br</a
+              ></v-btn
+            >
+          </v-card-actions>
+        </v-card>
+      </v-flex>
+      <v-flex xs12 md6>
+        <v-card class="card-area" elevation="20">
+          <v-row class="avatars">
+            <v-avatar size="150">
+              <img
                 src="../../assets/images/engenharia_construcao/foto-bruno-linhares.jpg"
                 alt="Bruno Linhares"
               />
