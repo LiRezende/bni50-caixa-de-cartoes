@@ -276,23 +276,23 @@
           >
           <v-card-actions>
             <v-btn text
-              ><a href="https://api.whatsapp.com/send?phone=5521981419736"
-                ><v-icon>mdi-whatsapp</v-icon> +55 21 98141-9736</a
+              ><a href="https://api.whatsapp.com/send?phone=552199627-2706"
+                ><v-icon>mdi-whatsapp</v-icon> +55 21 99627-2706</a
               ></v-btn
             >
           </v-card-actions>
           <v-card-actions>
             <v-btn text
-              ><a href="mailto:marina.a.vergili@gmail.com"
+              ><a href="mailto:patricia@patriciacaceres.com.br"
                 >‎<v-icon>mdi-email-outline</v-icon>
-                marina.a.vergili@gmail.com</a
+                patricia@patriciacaceres.com.br</a
               ></v-btn
             >
           </v-card-actions>
           <v-card-actions>
             <v-btn text
-              ><a href="http://www.coachthinking.com/"
-                >‎<v-icon>mdi-earth</v-icon> coachthinking.com</a
+              ><a href="http://www.patriciacaceres.com.br/"
+                >‎<v-icon>mdi-earth</v-icon> patriciacaceres.com.br/</a
               ></v-btn
             >
           </v-card-actions>
