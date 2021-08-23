@@ -212,65 +212,6 @@
           <v-row class="avatars">
             <v-avatar size="150">
               <img
-                src="../../assets/images/financas_advogados/foto_gabriella_gaida.jpg"
-                alt="Gabriella Gaida"
-              />
-            </v-avatar>
-            <img
-              style="width: 200px;"
-              class="logo"
-              src="../../assets/images/financas_advogados/logo_di_ciero_advogados.jpg"
-              alt="Logo Di Ciero Advogados"
-            />
-          </v-row>
-          <v-card-title>Gabriella Gaida</v-card-title>
-          <v-card-subtitle
-            ><strong>Di Ciero Advogados</strong> | Privacidade e Proteção de
-            Dados</v-card-subtitle
-          >
-          <v-card-text
-            >Di Ciero Advogados conta com profissionais experientes e
-            qualificados para atender demandas em várias especialidades do
-            Direito, com foco na prevenção de litígios, transparência e
-            qualidade nas informações ao cliente e no acompanhamento dos
-            processos, soluções inteligentes na busca por resultados favoráveis
-            em disputas judiciais e custo competitivo. Com sedes próprias no Rio
-            de Janeiro e em São Paulo e com parcerias com escritórios de
-            advocacia de todo o Brasil e de países dos cinco continentes. O Di
-            Ciero Advogados está pronto para prestar assistência e consultoria
-            jurídicas para adequação às legislações, normas e regulamentos da
-            política nacional de Proteção de Dados, para atuar junto à
-            Autoridade Nacional de Proteção de Dados – ANPD e aos titulares de
-            dados pessoais e no contencioso administrativo e judicial
-          </v-card-text>
-          <v-card-actions>
-            <v-btn text
-              ><a href="https://api.whatsapp.com/send?phone=5521991961309"
-                ><v-icon>mdi-whatsapp</v-icon> +55 21 99196-1309</a
-              ></v-btn
-            >
-          </v-card-actions>
-          <v-card-actions>
-            <v-btn text
-              ><a href="mailto:gabriella@diciero.adv.br"
-                >‎<v-icon>mdi-email-outline</v-icon> gabriella@diciero.adv.br</a
-              ></v-btn
-            >
-          </v-card-actions>
-          <v-card-actions>
-            <v-btn text
-              ><a href="https://diciero.adv.br/"
-                >‎<v-icon>mdi-earth</v-icon> diciero.adv.br</a
-              ></v-btn
-            >
-          </v-card-actions>
-        </v-card>
-      </v-flex>
-      <v-flex xs12 md6>
-        <v-card class="card-area" elevation="20">
-          <v-row class="avatars">
-            <v-avatar size="150">
-              <img
                 src="../../assets/images/financas_advogados/foto_george_almeida.jpg"
                 alt="George Almeida"
               />
