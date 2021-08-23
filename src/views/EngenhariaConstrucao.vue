@@ -55,7 +55,7 @@
       <v-flex xs12 md6>
         <v-card class="card-area" elevation="20">
           <v-row class="avatars">
-            <v-avatar size="300">
+            <v-avatar size="150">
               <img
                 src="../../assets/images/engenharia_construcao/foto-andrea-fiorini.jpeg"
                 alt="Andrea Fiorini"
