@@ -107,6 +107,51 @@
           <v-row class="avatars">
             <v-avatar size="150">
               <img
+                src="../../assets/images/eventos/foto-marcos-mangin.jpg"
+                alt="Marcos Mangin"
+              />
+            </v-avatar>
+            <img
+              style="width: 210px; height: 200px"
+              class="logo"
+              src="../../assets/images/eventos/logo-farra-bier.jpg"
+              alt="Logo Farra Bier"
+            />
+          </v-row>
+          <v-card-title>Marcos Mangin</v-card-title>
+          <v-card-subtitle
+            ><strong>Farra Bier</strong> | Comércio Atacadista de Cerveja, Chope e Refrigerante</v-card-subtitle
+          >
+          <v-card-text>Buscamos alcançar todos os gostos através de uma carta variada, que transita por diversos estilos. Produzimos pensando em você e acreditamos que uma cerveja, além de qualidade, tem que encaixar no paladar de quem bebe.</v-card-text>
+          <v-card-actions>
+            <v-btn text
+              ><a href="https://api.whatsapp.com/send?phone=5521987661211"
+                ><v-icon>mdi-whatsapp</v-icon> +55 21 98766-1211</a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="mailto:‎mangin@farrabier.com.br"
+                >‎<v-icon>mdi-email-outline</v-icon>
+                mangin@farrabier.com.br</a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="https://farrabier.com.br"
+                >‎<v-icon>mdi-earth</v-icon> farrabier.com.br</a
+              ></v-btn
+            >
+          </v-card-actions>
+        </v-card>
+      </v-flex>
+      <v-flex xs12 md6>
+        <v-card class="card-area" elevation="20">
+          <v-row class="avatars">
+            <v-avatar size="150">
+              <img
                 src="../../assets/images/eventos/foto_margareth_galves.jpg"
                 alt="Margareth Galves"
               />
