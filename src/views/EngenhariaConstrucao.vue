@@ -10,53 +10,6 @@
           <v-row class="avatars">
             <v-avatar size="150">
               <img
-                src="https://www.bniconnectglobal.com/web/open/networkViewProfileImage/5fe288d20cf2acd5d34680ba.jpg"
-                alt="André Rodrigues"
-              />
-            </v-avatar>
-            <img
-              style="width: 200px; height: 78px"
-              class="logo"
-              src="../../assets/images/engenharia_construcao/logo_prospecta_obras.jpg"
-              alt="Logo Rodrigues & Motta"
-            />
-          </v-row>
-          <v-card-title>André Rodrigues</v-card-title>
-          <v-card-subtitle
-            ><strong>Rodrigues & Motta</strong> | Mapeamento de Obras</v-card-subtitle
-          >
-          <v-card-text
-            >Assinatura Mensal de Plataforma Web, com informações de obras no Grande Rio de Janeiro. As obras são capturadas por inteligência em Big Data, onde posteriormente uma equipe treinada entra em contato com o profissional ou proprietário e coletada dados como estágio da obra, informações de e-mail, redes sociais, além de perguntar sobre o que está precisando orçar naquele momento. Estas informações são inseridas nas respectivas obras, com data de contato dentre outras. Com estas informações, nossos clientes vão atrás das oportunidades, que são atualizadas semanalmente. Nosso objetivo é ligar prestadores de serviços e comerciantes de materiais e produtos para uma residência/comércio, diretamente com as oportunidades indicadas na plataforma. A plataforma atende a mais de setenta tipos de produtos, desde o projeto, passando pela construção e decoração, eletrodomésticos e seguros.
-          </v-card-text>
-          <v-card-actions>
-            <v-btn text
-              ><a href="https://api.whatsapp.com/send?phone=5521972645788"
-                ><v-icon>mdi-whatsapp</v-icon> +55 21 97264-5788</a
-              ></v-btn
-            >
-          </v-card-actions>
-          <v-card-actions>
-            <v-btn text
-              ><a href="mailto:‎aluisnr@gmail.com"
-                >‎<v-icon>mdi-email-outline</v-icon>
-                ‎aluisnr@gmail.com</a
-              ></v-btn
-            >
-          </v-card-actions>
-          <v-card-actions>
-            <v-btn text
-              ><a href="https://www.prospectaobras.com/"
-                >‎<v-icon>mdi-earth</v-icon> prospectaobras.com</a
-              ></v-btn
-            >
-          </v-card-actions>
-        </v-card>
-      </v-flex>
-      <v-flex xs12 md6>
-        <v-card class="card-area" elevation="20">
-          <v-row class="avatars">
-            <v-avatar size="150">
-              <img
                 src="../../assets/images/engenharia_construcao/foto-andrea-fiorini.jpeg"
                 alt="Andrea Fiorini"
               />
