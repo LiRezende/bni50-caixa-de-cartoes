@@ -336,6 +336,53 @@
           <v-row class="avatars">
             <v-avatar size="150">
               <img
+                src="../../assets/images/engenharia_construcao/foto-ricardo-sales.jpg"
+                alt="Ricardo Sales"
+              />
+            </v-avatar>
+            <img
+              style="width: 200px; height: 100px"
+              class="logo"
+              src="../../assets/images/engenharia_construcao/logo-abc-construcao.jpg"
+              alt="Logo abc da Construção"
+            />
+          </v-row>
+          <v-card-title>Ricardo Sales</v-card-title>
+          <v-card-subtitle
+            ><strong>abc da Construção</strong> | Material de Construção</v-card-subtitle
+          >
+          <v-card-text
+            >Materiais para construção, reformas e acabamentos.</v-card-text
+          >
+          <v-card-actions>
+            <v-btn text
+              ><a href="https://api.whatsapp.com/send?phone=5521996272706"
+                ><v-icon>mdi-whatsapp</v-icon> +55 21 99627-2706</a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="mailto:rtsales@uol.com.br"
+                >‎<v-icon>mdi-email-outline</v-icon>
+                rtsales@uol.com.br</a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="https://www.abcdaconstrucao.com.br/"
+                >‎<v-icon>mdi-earth</v-icon> abcdaconstrucao.com.br</a
+              ></v-btn
+            >
+          </v-card-actions>
+        </v-card>
+      </v-flex>
+      <v-flex xs12 md6>
+        <v-card class="card-area" elevation="20">
+          <v-row class="avatars">
+            <v-avatar size="150">
+              <img
                 src="../../assets/images/engenharia_construcao/foto_roberto_lapagesse.jpg"
                 alt="Roberto Lapagesse"
               />
