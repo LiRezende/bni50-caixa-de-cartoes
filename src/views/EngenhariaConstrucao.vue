@@ -341,7 +341,7 @@
               />
             </v-avatar>
             <img
-              style="width: 200px; height: 100px"
+              style="width: 219px; height: 148px"
               class="logo"
               src="../../assets/images/engenharia_construcao/logo-abc-construcao.jpg"
               alt="Logo abc da Construção"
