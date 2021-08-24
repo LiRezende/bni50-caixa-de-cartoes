@@ -104,6 +104,53 @@
           <v-row class="avatars">
             <v-avatar size="150">
               <img
+                src="../../assets/images/engenharia_construcao/foto-antonio-carlos-fernandes.jpg"
+                alt="Antônio Carlos Fernandes"
+              />
+            </v-avatar>
+            <img
+              style="width: 421px; height: 77px"
+              class="logo"
+              src="../../assets/images/engenharia_construcao/logo-esquadripan.jpg"
+              alt="Logo Esquadripan Esquadrias de Alumínio"
+            />
+          </v-row>
+          <v-card-title>Antônio Carlos Fernandes</v-card-title>
+          <v-card-subtitle
+            ><strong>Esquadripan</strong> | Esquadrias de Alumínio</v-card-subtitle
+          >
+          <v-card-text
+            >Empresa especializada em esquadrias de alúminio e opera desde 2003 em empreendimentos de construção civil.
+          </v-card-text>
+          <v-card-actions>
+            <v-btn text
+              ><a href="https://api.whatsapp.com/send?phone=5521970161906 "
+                ><v-icon>mdi-whatsapp</v-icon> +55 21 97016-1906 </a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="mailto:antoniocarlos@esquadripan.com.br"
+                >‎<v-icon>mdi-email-outline</v-icon>
+                antoniocarlos@esquadripan.com.br</a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="http://esquadripan.com.br"
+                >‎<v-icon>mdi-earth</v-icon> esquadripan.com.br</a
+              ></v-btn
+            >
+          </v-card-actions>
+        </v-card>
+      </v-flex>
+      <v-flex xs12 md6>
+        <v-card class="card-area" elevation="20">
+          <v-row class="avatars">
+            <v-avatar size="150">
+              <img
                 src="../../assets/images/engenharia_construcao/foto_barbara_loureiro.jpeg"
                 alt="Barbara Loureiro"
               />
