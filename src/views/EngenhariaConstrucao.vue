@@ -109,7 +109,7 @@
               />
             </v-avatar>
             <img
-              style="width: 421px; height: 77px"
+              style="width: 250px; height: 46px"
               class="logo"
               src="../../assets/images/engenharia_construcao/logo-esquadripan.jpg"
               alt="Logo Esquadripan Esquadrias de Alumínio"
