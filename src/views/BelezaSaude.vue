@@ -151,6 +151,53 @@
           <v-row class="avatars">
             <v-avatar size="150">
               <img
+                src="../../assets/images/beleza_saude/foto-claudio-mata.jpg"
+                alt="Cláudio Mata"
+              />
+            </v-avatar>
+            <img
+              style="width: 162px; height: 161px"
+              class="logo"
+              src="../../assets/images/beleza_saude/logo-seeds-brazil.jpg"
+              alt="Logo SEEdS Brazil Alimentos Naturais"
+            />
+          </v-row>
+          <v-card-title>Cláudio Mata</v-card-title>
+          <v-card-subtitle
+            ><strong>SEEdS Brazil Alimentos Naturais</strong> | Serviço de Alimentação</v-card-subtitle
+          >
+          <v-card-text
+            >Culinária natural e saborosa, baseada em alimentos integrais.
+          </v-card-text>
+          <v-card-actions>
+            <v-btn text
+              ><a href="https://api.whatsapp.com/send?phone=5521995923613"
+                ><v-icon>mdi-whatsapp</v-icon> +55 21 99592-3613</a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="mailto:claudio.mata@seedsbrazil.com"
+                >‎<v-icon>mdi-email-outline</v-icon>
+                claudio.mata@seedsbrazil.com</a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="https://www.seedsbrazil.com/"
+                >‎<v-icon>mdi-earth</v-icon> seedsbrazil.com</a
+              ></v-btn
+            >
+          </v-card-actions>
+        </v-card>
+      </v-flex>
+      <v-flex xs12 md6>
+        <v-card class="card-area" elevation="20">
+          <v-row class="avatars">
+            <v-avatar size="150">
+              <img
                 src="../../assets/images/beleza_saude/foto_fabricia.jpg"
                 alt="Fabrícia de Paula"
               />
