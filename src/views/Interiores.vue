@@ -10,6 +10,52 @@
           <v-row class="avatars">
             <v-avatar size="150">
               <img
+                src="../../assets/images/interiores/foto-alexandre-filardi.jpg"
+                alt="Alexandre Filardi"
+              />
+            </v-avatar>
+            <img
+              style="width: 315px; height: 185px"
+              class="logo"
+              src="../../assets/images/interiores/logo-uniflex-ipanema.jpg"
+              alt="Logo Uniflex Ipanema"
+            />
+          </v-row>
+          <v-card-title>Alexandre Filardi</v-card-title>
+          <v-card-subtitle
+            ><strong>Uniflex Ipanema</strong> | Cortinas e Persianas</v-card-subtitle
+          >
+          <v-card-text
+            >A Uniflex é uma marca 100% brasileira com o DNA Suíço na sua gestão e oferece para você o que há de melhor em sistemas de proteção solar, persianas, cortinas e rolôs. São mais de 50 lojas exclusivas e conectadas a uma plataforma digital completa de relacionamentos e serviços, que garantem segurança e solidez.
+          </v-card-text>
+          <v-card-actions>
+            <v-btn text
+              ><a href="https://api.whatsapp.com/send?phone=5521999873664"
+                ><v-icon>mdi-whatsapp</v-icon> +55 21 99987-3664</a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="mailto:‎alexandrefilardi@grupodec.com.br"
+                >‎<v-icon>mdi-email-outline</v-icon> alexandrefilardi@grupodec.com.br</a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="https://www.uniflex.com.br/"
+                >‎<v-icon>mdi-earth</v-icon> uniflex.com.br</a
+              ></v-btn
+            >
+          </v-card-actions>
+        </v-card>
+      </v-flex>
+      <v-flex xs12 md6>
+        <v-card class="card-area" elevation="20">
+          <v-row class="avatars">
+            <v-avatar size="150">
+              <img
                 src="../../assets/images/interiores/foto_cassio_farias.jpg"
                 alt="Cássio Farias"
               />
