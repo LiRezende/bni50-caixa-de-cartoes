@@ -113,6 +113,53 @@
           <v-row class="avatars">
             <v-avatar size="150">
               <img
+                src="../../assets/images/financas_advogados/foto-arnaldo-dias.jpg"
+                alt="Arnaldo Dias"
+              />
+            </v-avatar>
+            <img
+              style="width: 336px; height: 134px"
+              class="logo"
+              src="../../assets/images/financas_advogados/logo-manager-auditoria.jpg"
+              alt="Logo Manager Auditoria Contábil em Condomínios"
+            />
+          </v-row>
+          <v-card-title>Arnaldo Dias</v-card-title>
+          <v-card-subtitle
+            ><strong>Manager</strong> | Auditoria Contábil em Condomínios</v-card-subtitle
+          >
+          <v-card-text
+            >A Manager tem sua área de atuação focada nas organizações sem fins lucrativos tais como: Associações em Geral (filantrópicas ou não), Sindicatos, Igrejas, Conselhos Fiscalizadores de Profissionais Liberais, OSCIP´s, PPP´s, Fundações, Colégios e Condomínios.
+          </v-card-text>
+          <v-card-actions>
+            <v-btn text
+              ><a href="https://api.whatsapp.com/send?phone=5521992360556"
+                ><v-icon>mdi-whatsapp</v-icon> +55 21 99236-0556 </a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="mailto:arnaldo.filho@m1-rj.com.br"
+                >‎<v-icon>mdi-email-outline</v-icon>
+                arnaldo.filho@m1-rj.com.br</a
+              ></v-btn
+            >
+          </v-card-actions>
+          <v-card-actions>
+            <v-btn text
+              ><a href="https://m1-rj.com.br/"
+                >‎<v-icon>mdi-earth</v-icon> m1-rj.com.br</a
+              ></v-btn
+            >
+          </v-card-actions>
+        </v-card>
+      </v-flex>
+      <v-flex xs12 md6>
+        <v-card class="card-area" elevation="20">
+          <v-row class="avatars">
+            <v-avatar size="150">
+              <img
                 src="../../assets/images/financas_advogados/foto_diego_saul.jpg"
                 alt="Diego Saul"
               />
